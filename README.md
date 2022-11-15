@@ -1,5 +1,11 @@
 # 无知的教师
 
+## 简介和最重要的话
+
+- 用[hypothes.is](https://hypothes.is/users/Le_Maitre_ignorant)进行文章标注和评论
+  - hypothesis使用教程[详细请见]（https://sspai.com/post/63033）
+  - 提交issue，我会将你拉入本仓库的hypothesis群组
+
 ## 学习小组文献存放地
 
 - 小组的初衷：建立一个文档存放地
