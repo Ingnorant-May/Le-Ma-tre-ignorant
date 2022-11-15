@@ -1,0 +1,1344 @@
+﻿The Amercian Economic Review, May 2022, Volume 112, Number 5
+American Economic Review 2022, 112(5): 1555-1590 [http\://a(H.(ogA0l255acr2020 i225](https://doi.org/10.1257/aer.20201283)
+
+美国经济评论2022,112(5) : 1555-1590 http://a (H
+ 
+# Rebel on the Canal: Disrupted Trade Access and Social Conflict in China 运河上的反叛: 中国贸易准入的中断与社会冲突, 1650 1650年—1911f
+ 
+By Yiming Cao and Shuo Chen[1](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#bookmark1)
+
+曹、陈硕
+
+This paper examines the effects of the abandonment of China’s Grand Canal—the world’s largest and oldest artificial waterway—which served as a disruption to regional trade access. Using an original dataset covering 575 counties over 262 years, we show that the canal’s abandonment contributed to the social turmoil that engulfed North China in the nineteenth century( Counties along the canal experienced an additional 117percent increase in rebelliousness after the canal’s closure relative to their non-canal counterparts. Our findings highlight the important role that continued access to trade routes plays in reducing conflict. (JEL D74, N75, N95, O18, O22, R12, R42)
+
+本文研究了中国放弃大运河(Grand Canal)的影响。大运河是世界上最大、最古老的人工水道，它对区域贸易准入造成了干扰。我们使用一个覆盖575个县的262年的原始数据集，显示了运河的废弃导致了19世纪席卷中国北方的社会动荡(在运河关闭后，相对于非运河的县，沿运河的县经历了额外的117% 的叛乱增加。我们的调查结果强调了持续进入贸易路线在减少冲突方面发挥的重要作用。(JEL D74，N75，N95，O18，O22，R12，R42)
+
+The question of whether access to trade opportunities enhances or undermines social stability fuels a long-running and controversial debate in economics and other social sciences. Easy access to trade may boost income, secure employment, and hence stabilize the society, yet it may also fuel social unrest by offering a larger prize to seize (Becker 1968; Grossman 1991). There is limited causal evidence that informs us about this debate and the findings are ambiguous. Our paper approaches this question by analyzing the abandonment of China’s Grand Canal—a plausibly exogenous policy shock that dramatically disrupted regional trade access—and its consequences for the rebellions that followed. In doing so, we also shed fresh light on chronic social disorder in nineteenth-century North China—a pivotal episode in Chinese history that until now has not been subjected to careful statistical analysis.
+
+获得贸易机会是增进还是破坏社会稳定的问题，在经济学和其他社会科学领域引发了长期和有争议的辩论。贸易的便利可以提高收入，保证就业，从而稳定社会，但是它也可能通过提供更大的奖励来加剧社会动荡(贝克尔1968; 格罗斯曼1991)。有限的因果关系证据告诉我们关于这场辩论和调查结果是模棱两可的。我们的论文通过分析中国放弃大运河(一种貌似是外部因素造成的政策冲击，严重扰乱了地区贸易准入)及其对随后发生的叛乱的后果，来探讨这个问题。在这样做的同时，我们也对19世纪中国北方的慢性社会混乱有了新的认识——这是中国历史上至今没有得到仔细统计分析的一个关键时期。
+
+China’s Grand Canal is the world’s largest and oldest artificial waterway. For over 800 years it facilitated inland navigation and promoted the commercial prosperity of its neighboring markets.[2](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#bookmark2) The functioning of the canal was maintained by the government, which used the canal to transport its grain taxes; this ensured that the canal was in good condition to be used also by private interests, for both trade and pleasure. The official transportation of grain taxes also contributed directly to commercial prosperity as the official boats were allowed to carry duty-free commodities during their services. In 1826, a severe breach of the canal prompted the government to experiment with a sea-transportation of tribute rice, which led eventually to the closure of the canal, and abruptly deprived the cities with direct access to this established trade route of that access. Social unrest followed shortly thereafter, which has been linked via anecdotal accounts to the canal’s closure. This link has never, however, been systematically tested.
+
+中国的大运河是世界上最大和最古老的人工水道。800多年来，它促进了内陆航运，并促进了邻近市场的商业繁荣。2运河的运行是由政府维持的，政府利用运河运输谷物税; 这确保了运河的良好状况，可供私人利益使用，包括贸易和娱乐。谷物税的官方运输也直接促进了商业繁荣，因为官方船只可以在服务期间运送免税商品。1826年，运河遭到严重破坏，促使政府进行海运贡米的试验，最终导致运河关闭，并突然剥夺了城市直接进入这条既定贸易路线的通道。此后不久就出现了社会动荡，坊间传闻认为这与运河的关闭有关。然而，这种联系从未得到过系统的检验。
+
+The historical context is well suited to examining the consequences for social instability of disrupted trade access. Our setting offers three main advantages. First, the decision that led to the eventual abandonment of the canal was neither trade oriented nor motivated by existing or anticipated rebellions, thus providing a plausibly exogenous shift in trade access. Second, there is rich information available on social unrest in China over a long period of time, which allows us to observe the entire reform process and examine both the short- and long-term consequences of disrupted trade access. Third, by focusing on a particular region in China, our setting is less subject to the many factors that would otherwise confound identification in cross-country settings, including ethnicity as well as institutional and cultural norms (Hegre and Sambanis 2006; Laitin and Watkins 2007; Djankov and Reynal-Querol 2010; Kung and Ma 2014; Janus and Riera-Crichton 2015; Jha 2013).
+
+历史背景非常适合审查贸易准入中断对社会不稳定的后果。我们的环境提供了三个主要的优势。首先，导致最终放弃运河的决定既不是以贸易为导向的，也不是由现有的或预期的叛乱所驱动的，因此在贸易准入方面提供了一种貌似外生的转变。其次，有关中国长期社会动荡的信息非常丰富，这使我们能够观察整个改革进程，并研究贸易准入中断的短期和长期后果。第三，通过关注中国的特定地区，我们的环境不太受许多因素的影响，否则会在跨国环境中混淆身份，包括种族以及制度和文化规范(Hegre 和 Sambanis 2006; Laitin 和 Watkins 2007; Djankov 和 Reynal-Querol 2010; Kung 和 Ma 2014; Janus 和 Riera-Crichton 2015; Jha 2013)。
+
+We construct an original dataset covering 575 counties over 262 years (from 1650 to 1911), extracted from archival records officially compiled by the Qing court. The records provide detailed information on the location and time of rebellion onsets throughout the Qing Dynasty. We focus our analysis on the six provinces around the canal basin—a highly populated area that accommodated 15 percent of the world’s population in 1820.
+
+我们从清廷正式编纂的档案记录中提取原始数据集，历时262年(1650-1911年) ，覆盖575个县。这些记录提供了关于整个清朝叛乱发生的地点和时间的详细信息。我们的分析集中在运河流域周围的六个省份。1820年，运河流域是一个人口稠密的地区，人口占世界总人口的15% 。
+
+We begin our analysis with a standard difference-in-differences (DID) strategy. We compare changes in the number of rebellions in counties through which the canal ran or with direct access to the canal—hereafter “canal counties”—relative to those that occurred far from it. We choose 1826, the starting point of the canal’s decline, as the treatment date, and have verified that this choice is consistent with the pattern in the data. We find no anticipatory increase in rebellions before the initiation of the reform. Our findings indicate a higher number of rebellions associated with the canal’s closure: compared with distant counties, canal counties experienced a 0.0387 increase in rebellions per million population after the reform than before. This effect corresponds to a 117 percent increase over the sample mean (0.0330), a finding that is significant at the 5 percent level. The estimates are robust to controlling for various confounding factors, including geography, demography, climate, agriculture, and pretreatment level of rebelliousness. We allow the effects of all control variables to vary across time. We have also tested that the results are not subject to specific modeling choices regarding sample selection, outcome construction, and standard error adjustments.
+
+我们从一个标准的差异分析策略开始我们的分析。我们比较了运河经过的县(以下简称“运河县”)和直接通往运河的县(以下简称“运河县”)与远离运河的县(以下简称“运河县”)的叛乱数量的变化。我们选择了运河衰退的起点1826年作为治疗日期，并且已经证实这个选择与数据中的模式是一致的。在改革开始之前，我们没有发现预期的叛乱增加。我们的研究结果表明，与运河关闭相关的叛乱数量有所增加: 与遥远的县相比，改革后的运河县每百万人口的叛乱数量比改革前增加了0.0387。这种效应相当于样本平均值(0.0330)增加了117% ，这一发现在5% 的水平上是显著的。这些估计对于控制各种混杂因素是稳健的，包括地理、人口、气候、农业和叛逆的预处理水平。我们允许所有控制变量的效果随时间变化。我们还测试了结果不受关于样本选择、结果构建和标准误差调整的特定建模选择的影响。
+
+The baseline model with the binary treatment variable is then extended to account for more flexible treatment intensity measures along various dimensions. We first explore, among canal counties, variations in the extent to which the canal matters for the county, both geographically and economically. We show that the reform’s impact on rebellions is proportional to the length of the portion of the canal contained within a county (normalized by the county’s land size), and to the share of market towns within ten kilometers (km) from the canal in 1820. We then turn to examine the potential range of the canal’s impact by estimating a spatial gradient model for the distances from the canal. We find a decreasing effect with distances from the canal and the impact spills over to counties up to 150 km away from the canal.
+
+基线模型与二元处理变量，然后扩展到考虑更灵活的处理强度措施沿各个维度。我们首先探讨运河县之间在地理和经济上运河对该县的重要程度上的差异。我们表明，改革对叛乱的影响与一个县的运河部分的长度(按该县的土地面积标准化)成正比，与1820年距离运河10公里(公里)以内的集镇的份额成正比。然后，我们转向通过估计与运河的距离的空间梯度模型来检查运河的潜在影响范围。我们发现，随着离运河距离的增加，冲击力会逐渐减弱，影响范围会扩大到距离运河150公里以外的郡县。
+
+One central concern to our identification is whether canal counties and non-canal counties are comparable to each other. While we have controlled for the pretreatment level of rebelliousness interacted with year dummies and the set of period-specific covariates, one might still worry about the possible existence of unknown or unobservable characteristics pertaining to the canal, possibly leading to a differential reaction to common shocks. We apply three independent approaches to delve into addressing this inherently challenging problem. First, we show that our findings survive two alternative estimation techniques that accommodate systematic differences between the treated and the control groups: changes-in-changes (CIC) (Athey and Imbens 2006) and synthetic control method (SCM) (Abadie and Gardeazabal 2003; Abadie, Diamond, and Hainmueller 2010). Second, we find no placebo treatment effects along other transportation routes that might have similar influences as the canal’s historical presence but did not suffer much from its closure. Finally, we examine two prominent events in the mid-nineteenth century—the Opium War and the Taiping Rebellion—and find that canal counties did not reacted more violently to these events. These pieces of evidence collectively support a causal interpretation of our findings that the increased rebelliousness in canal counties since 1826 is likely attributable to the loss of the canal.
+
+我们确定的一个核心问题是运河县和非运河县是否可以相互比较。虽然我们已经控制了与年度假人和一组特定时期协变量相互作用的叛逆性的预处理水平，但人们可能仍然担心可能存在与运河有关的未知或不可观察的特征，可能导致对常见冲击的不同反应。我们应用三种独立的方法来深入研究如何解决这个具有内在挑战性的问题。首先，我们的研究结果表明，我们的研究结果存在两种替代估计技术，适应治疗组和对照组之间的系统差异: 变化(CIC)(Athey 和 Imbens 2006)和合成对照方法(SCM)(Abadie 和 Gardeazabal 2003; Abadie，Diamond 和 Hainmueller 2010)。其次，我们没有发现安慰剂治疗效果沿着其他交通路线，可能有类似的影响作为运河的历史存在，但没有受到太多的影响，其关闭。最后，我们考察了十九世纪中叶的两个突出事件ーー鸦片战争和太平天国运河县对这些事件的反应并不激烈。这些证据共同支持我们的研究结果的因果解释，即自1826年以来运河县的叛乱增加可能归因于运河的损失。
+
+We discuss potential mechanisms through which the canal closure might destabilize society. First, we investigate whether the reduction in repressive capacity following the closure could explain our findings. We evaluate this interpretation using two different approaches and do not find evidence in support of it. We then examine the alternative mechanism that the closure deprived canal counties of their access to regional trade. Specifically, we find that (i) the closure slowed down the development of market towns around the canal, (ii) the effects are much smaller for counties with access to alternative trade routes, and (iii) the canal stopped to make an effect in risk mitigation, a role that trade usually plays upon negative shocks (Burgess and Donaldson 2010). While suggestive and inconclusive individually, these findings collectively point towards the loss of trade access as a likely channel through which the closure impeded political stability. We lay out additional statistical results consistent with the historical narrative that urban unemployed workers (e.g., sailors and dockworkers) might be the major group who suffered and rebelled after the closure. We briefly discuss the potential long-term implications of this narrative.
+
+我们讨论了关闭运河可能破坏社会稳定的潜在机制。首先，我们调查是否降低抑制能力后，关闭可以解释我们的发现。我们使用两种不同的方法来评估这种解释，并没有找到支持它的证据。然后，我们研究另一种机制，即关闭剥夺运河各县进入区域贸易的机会。具体而言，我们发现(i)关闭减缓了运河周边集镇的发展，(ii)对于可以使用替代贸易路线的县来说，影响要小得多，以及(iii)运河停运对减轻风险产生影响，这是贸易通常在负面冲击中发挥的作用(Burgess and Donaldson 2010)。虽然这些调查结果个别具有启发性和不确定性，但它们共同指出，贸易准入的丧失可能成为封锁阻碍政治稳定的一个渠道。我们列出了与历史叙述相一致的额外统计结果，即城市失业工人(例如水手和码头工人)可能是关闭后遭受苦难和反抗的主要群体。我们简要讨论这种叙述的潜在长期影响。
+
+Our work contributes most directly to the long-standing debate over the implications of trade access for political and social stability. The relationship is ambiguous in theory, hinging to a large extent on whether access to trade increases the availability of resources over which rivals fight or discourages citizens from participation in soldiering (e.g., Hirshleifer 1989; Grossman 1991; McGuirk and Burke 2020). Empirical studies—in light of the endogeneity concerns—rely mostly on trade volatility shocks at the intensive margin, which, however, produce rather mixed results. See Dube and Vargas (2013) for a destabilizing effect and Bazzi and Blattman (2014) for a null effect. Our work thus provides a unique contribution to the debate by focusing on the extensive margin, in which we find that the loss of trade access destabilizes society.[3](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#bookmark3) Moreover, we distinguish from previous work by studying an urban (rather than rural) setting in which the economy depends on internal (rather than international) trade. In particular, we focus on the roles of unemployed urban workers who earned a living in the circulation and exchange of commodities. This explanation presents a nuanced but intriguing distinction from the existing narratives, in which trade volatility mainly affects the profitability for the producers (or the survivability of the consumers). While we focus on a historical context that facilitates a causal interpretation, the implication of the study may be potentially pertinent to contemporary policymaking, especially in an era of significant backlash against trade integration and liberalization.[4](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#bookmark4)
+
+我们的工作最直接地促进了关于贸易准入对政治和社会稳定影响的长期辩论。这种关系在理论上是模棱两可的，在很大程度上取决于贸易渠道是否增加了竞争对手争夺的资源的可用性，或者阻止公民参军(例如，Hirshleifer 1989; Grossman 1991; McGuirk and Burke 2020)。实证研究ーー考虑到内生性问题ーー主要依赖于密集边际的贸易波动冲击，然而，这种冲击产生的结果相当复杂。参见 Dube 和 Vargas (2013)的不稳定效果和 Bazzi 和 Blattman (2014)的无效果。因此，我们的工作通过聚焦于广泛的边际，为这场辩论提供了独特的贡献，我们发现贸易准入的丧失会破坏社会的稳定。3此外，我们通过研究经济依赖于国内(而非国际)贸易的城市(而非农村)环境，区别于以往的工作。我们特别关注在商品流通和交换中谋生的失业城市工人的作用。这种解释与现有的说法有着微妙但耐人寻味的区别，在现有的说法中，贸易波动主要影响生产者的盈利能力(或消费者的生存能力)。虽然我们侧重于有利于因果解释的历史背景，但研究的意义可能对当代决策有潜在的相关性，特别是在贸易一体化和自由化遭到严重抵制的时代
+
+More broadly, this study contributes to the large body of literature on economic shocks and civil conflicts. See Miguel, Satyanath, and Sergenti (2004) and Miguel (2005) for seminal contributions; and Blattman and Miguel (2010) for a review. Existing work, while applying effective identification strategies for causal studies, focuses on an extremely narrow subset of shocks—weather and price fluctuations— that are transitory and hit mostly rural areas. The implications of these studies may not be immediately generalizable to other increasingly prominent settings, such as one with a permanent shock hitting urban markets, in which case individuals have more outside options and may adjust to changes in their expectations. We therefore contribute to this literature by characterizing the dynamics of conflicts in response to a permanent negative trade shock plausibly hitting urban sectors, in which we see a pattern that consists of an immediate and sharp increase in an outcome followed by a convergence trend thereafter. Our emphasis on the role of urban workers who found themselves unemployed by the trade disruption also echoes Dell, Feigenberg, and Teshima (2019) on the violent consequences of trade-induced worker displacement in Mexico as well as historical case studies of the origin of mafia-like activities in Chicago and New York City around the early twentieth century (Haller 1971; Critchley 2008).
+
+更广泛地说，这项研究有助于经济冲击和国内冲突的大量文献。参见 Miguel，Satyanath，and Sergenti (2004)和 Miguel (2005)的开创性贡献; 以及 Blattman 和 Miguel (2010)的综述。现有工作在对因果研究采用有效的识别战略的同时，侧重于一个极其狭窄的冲击子集ーー天气和价格波动ーー这些冲击是短暂的，主要影响到农村地区。这些研究的影响可能无法立即推广到其他日益突出的环境，例如对城市市场造成永久性冲击的环境，在这种情况下，个人拥有更多的外部选择，并可能适应其预期的变化。因此，我们通过描述冲突的动态特征，以应对可能打击城市部门的长期负面贸易冲击，从而为这一文献做出贡献，我们看到一种模式，其中包括结果立即急剧增加，随后出现趋同趋势。我们强调城市工人的作用，他们发现自己失业的贸易破坏也呼应戴尔，Feigenberg，和特希马(2019年)在墨西哥的贸易引起的工人流离失所的暴力后果，以及历史案例研究的起源，在芝加哥和纽约市类似黑手党的活动在20世纪初期(Haller 1971年; 克里奇利2008年)。
+
+Given our focus on the Grand Canal, we also contribute to the literature on the role of transportation infrastructure—the emphasis of which is mainly on roads and railways: see, for example, Fogel (1979); Donaldson (2018); and Banerjee, Duflo, and Qian (2020). We focus, instead, on a prevalent and longstanding means of transportation that, despite its advantages in terms of cleanliness and cost-efficiency, has been largely overlooked in the literature. Moreover, in contrast to the extensive body of work that evaluates the economic outcomes of such infrastructure in terms of productivity and income, our work is one of the small number of papers that illustrate their broader political and social implications (Perlman and Schuster 2016; Burgess and Donaldson 2010).
+
+鉴于我们对大运河的关注，我们也对交通基础设施的作用的文献作出了贡献，其重点主要是公路和铁路: 比如，见福格尔(1979年)、唐纳森(2018年)、班纳吉、杜弗洛和钱培琛(2020年)。相反，我们关注的是一种流行和长期存在的交通工具，尽管它在清洁和成本效益方面有优势，但在文献中基本上被忽视了。此外，与评估此类基础设施在生产率和收入方面的经济成果的大量工作相反，我们的工作是少数阐明其更广泛的政治和社会影响的论文之一(Perlman and Schuster 2016; Burgess and Donaldson 2010)。
+
+Finally, our work also sheds light on the chronic social disorder that afflicted nineteenth-century North China—an episode of pivotal importance in Chinese history. In particular, we focus on a key region that has been characterized as the home of persistent and recurrent turmoil for over a century, including a series of notable events such as the Nian Rebellion, the Boxer Rebellion, and the Green Gang (Esherick 1988; Perry 1980; Liu 2007). This aligns our work closely with that of Bai and Jia (2016): both studies attribute the insurrections toward the end of Imperial China to the loss of economic opportunities; whereas they focus more specifically on a small group of elites who participated in the 1911 revolution, we shed light on the dynamics of social disorder over a longer period of time.[5](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#bookmark5)
+
+最后，我们的研究还揭示了19世纪困扰中国北方的长期社会混乱——这是中国历史上至关重要的一段时期。特别是，我们关注一个关键地区，这个地区一个多世纪以来一直被认为是持续和反复动荡的发源地，包括一系列著名的事件，如年代起义、义和团起义和青帮(埃谢里克1988年; 佩里1980年; 刘2007年)。这使我们的研究与白和贾(2016)的研究密切相关: 这两项研究都将中华帝国末期的起义归因于经济机会的丧失，虽然他们更具体地关注参与辛亥革命的一小群精英，但我们阐明了更长时期内社会动荡的动态
+
+The remainder of the paper is organized as follows. In the next section we present background information about the Grand Canal and its abandonment. In Section II we present the data. We formalize our empirical strategy in Section III and demonstrate the baseline results. Section IV delves into addressing the central concern regarding the causal interpretation. In Section V we discuss the possible mechanisms and their implications, and Section VI concludes.
+
+本文的其余部分组织如下。在下一节中，我们将介绍有关大运河及其废弃的背景信息。在第二部分，我们介绍了数据。我们在第三部分正式确定了我们的经验策略，并展示了基线结果。第四节深入探讨了关于因果解释的核心问题。在第五部分，我们讨论了可能的机制及其含义，第六部分结束。
+ 
+- I. Background
+
+    一、背景
+
+- A. The Grand Canal
+
+    大运河
+
+The 1,776 km Grand Canal is the longest and oldest artificial waterway in the world. Located in the northeastern and central-eastern plains of China, it links Beijing in the north with Hangzhou in the south (see[Figure 1)](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#bookmark6). The earliest parts of the canal were constructed in the fifth century bc, and the various sections were integrated into a nationwide system during the Sui Dynasty (581-618 ad). The scale of the Grand Canal was unparalleled in its time (Elvin 1973). More than 126 million people lived in the six provinces the canal traveled through in 1820, which accounted for about 15 percent of the world’s population.
+
+全长1776公里的大运河是世界上最长、最古老的人工水道。它位于中国的东北和中东部平原，北连北京，南连杭州(见图1)。运河最早的部分是在前5世纪中修建的，隋朝(公元581-618年) ，运河的各个部分被整合成一个全国性的系统。大运河的规模在当时是无与伦比的(Elvin 1973)。1820年，有超过1.26亿人居住在运河所经过的六个省份，这些省份的人口约占世界人口的15% 。
+
+The canal was originally constructed to secure Beijing’s food supply. As the empire’s capital and most populous city, Beijing had a population of over one million in 1820. Rice production was, however, clustered in the south, which featured abundant, fertile land, and suitable weather (rain and sunshine) for agriculture. The Chinese government therefore adopted the “tribute grain” system to transport grains produced in the south to the north of the country via the Grand Canal (see online Appendix B.1 for institutional details). In the early nineteenth century, approximately 3.5 million piculs of rice (roughly 560 million pounds) were delivered to the capital annually (Huang
+
+这条运河最初是为了保障北京的粮食供应而修建的。作为帝国的首都和人口最多的城市，北京在1820年的人口超过一百万。然而，水稻生产集中在南方，那里土地肥沃，气候适宜(雨水和阳光) ，适合农业生产。因此，中国政府采用“贡粮”制度，通过大运河将南方生产的粮食运往北方(详见网上附录 B.1)。十九世纪初，每年大约有三百五十万颗大米(约五亿六千万英镑)被运到首都(黄)
+![](./The Amercian Economic Review, May 2022, Volume 112, Number 5_files/Rebel on the Canal Disrupted Trade Access and Social Conflict in China, 1650131911-1.jpg) 
+Figure 1. Location of the Grand Canal
+
+图1. 大运河的位置
+
+Note: The figure depicts the location of the Grand Canal and the six provinces adjacent to it, which is the sample region for our study.
+
+注: 图中显示了大运河的位置以及毗邻的六个省份，这是我们研究的样本区域。
+
+1918). Maintaining the canal was therefore one of the most crucial tasks for the Qing government (Leonard 1988; Hummel 2010; Cheung 2008).
+
+1918年)。因此，维护运河是清政府最重要的任务之一(伦纳德1988; 胡梅尔2010; 张2008)。
+
+The canal also benefited adjacent regions by facilitating regional trade and providing job opportunities. The government allowed the grain junks to carry an estimated 200 million pounds of duty-free commodities annually in the early nineteenth century (Ni 2005). Popular commodities ranged from bamboo, woods, paper, china and silk to pears, jujube and walnuts. Private junks also used the canal extensively for trade, travel and pleasure (Gandar 1894; Hinton 1952). As the only north-south waterway in east China, the canal facilitated the transportation of over ten million piculs (roughly 1.5 billion pounds) of commodities each year. Moreover, transportation and trade along the canal created a wide range of jobs for urban areas. Workers were hired either by the government for sailing, boat construction, and canal maintenance or by the private sector in restaurants, hotels, and commercial services.
+
+运河还通过促进区域贸易和提供就业机会使邻近地区受益。在19世纪早期，政府允许谷物垃圾运输大约每年2亿磅的免税商品(Ni 2005)。受欢迎的商品包括竹子、木材、纸张、瓷器、丝绸、梨、枣和核桃。私人帆船也广泛使用运河的贸易，旅行和娱乐(甘达尔1894年; 辛顿1952年)。作为中国东部唯一的南北航道，运河每年为运输超过1000万石头(约15亿磅)的商品提供了便利。此外，运河沿岸的交通和贸易为城市地区创造了广泛的就业机会。工人们要么受雇于政府，从事航海、造船和运河维护工作，要么受雇于私营部门，从事餐饮、酒店和商业服务。
+
+The Grand Canal thus boosted the economy along its route and created large commercial cities. For example, Linqing was a minor county before its construction. It developed into a trade center by the early Qing Dynasty, and was promoted to a municipality in 1777. The prosperity of the corridor was also reflected in its population density, which by 1820 was 45 percent higher in canal prefectures than in non-canal prefectures.
+
+因此，大运河促进了沿线经济的发展，创造了大型商业城市。例如，临清在建设之前是一个小县城。清朝初期，它发展成为一个贸易中心，并于1777年晋升为直辖市。走廊的繁荣也反映在其人口密度上，到1820年，运河地区的人口密度比非运河地区高出45% 。
+
+- B. Abandonment of the Grand Canal
+
+    放弃大运河
+
+The Grand Canal was gradually abandoned by the government in the nineteenth century. The triggering event was the canal’s breach at its junction with the Yellow River following severe storms and flooding in 1825, which halted the government’s grain shipments through the canal. In response, the government launched a first experiment in 1826 to explore an alternative route for tribute grain transportation through the East China Sea. The experiment was successful and demonstrated the feasibility and efficiency of sea shipping. However, the reformers’ efforts to urge the continuation of the sea route were strongly resisted by vested interest groups associated with canal transportation. For this reason, the operation of the canal was restored in the following year, and the government continued its investment in restoring and maintaining the canal for at least another two decades. It was not until the late 1840s that the government took further steps toward a permanent reform. Canal shipping of tribute rice ceased to operate after 1855; since then the government stopped the canal’s maintenance (Fairbank 1978; Leonard 2018). As a result, many sections of the canal became so clogged that they were no longer navigable at all by the end of the nineteenth century. The government officially announced the canal’s closure in 1901 (Li and Jiang 2008).
+
+大运河在十九世纪被政府逐渐废弃。触发事件是1825年严重的暴风雨和洪水之后，运河与黄河交界处的裂口，这导致政府停止了通过运河的粮食运输。作为回应，政府在1826年发起了第一次试验，以探索通过东海进贡粮食运输的替代路线。试验成功，验证了海上航行的可行性和有效性。然而，与运河运输相关的既得利益集团强烈抵制改革派敦促延长海上航线的努力。由于这个原因，第二年运河恢复运行，政府继续投资修复和维护运河至少二十年。直到19世纪40年代晚期，政府才采取进一步措施，朝着永久性改革迈进。运河运送贡米在1855年后停止运作; 从那时起，政府停止了运河的维护(费尔班克1978年; 伦纳德2018年)。结果，运河的许多部分堵塞严重，到十九世纪末已经完全无法通航。政府在1901年正式宣布运河关闭(李和江2008年)。
+
+The 1826 experiment, while temporary, marked a milestone of the destiny of the canal. After the success of this experiment, sea transportation became, for the first time during the Qing dynasty, a viable option for tribute rice transportation, which could be adopted whenever needed; that is, the possibility of a total closure became real and foreseeable, even though it was delayed by the existence of vested interest groups. Meanwhile, the condition of the canal started worsening, and its usage declined.[Figure 2](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#bookmark7)shows the amount of tribute rice transported via the canal. The data are unfortunately sparse and noisy, but there is a suggestive downward trend since 1826. If one ignores the fitted line and looks directly at the data themselves, we see that, despite the initial restoration, there was considerable fluctuation in the following years. In particular, we observe a sharp decline in canal transportation in the early and mid-1830s. This pattern is consistent with the custom revenue reports at the Huai’an depot, a linchpin of the Grand Canal, in which the reported trade volume dropped by about 30 percent between 1818 and 1831 (von Glahn 2018). Thus, the decline of the canal likely started since as early as 1826, before subsequent steps toward a total closure were put forward. For this reason, we consider 1826 experiment as the treatment date for our analysis.
+
+1826年的试验虽然是暂时的，但却标志着运河命运的一个里程碑。这项实验成功后，海运在清朝首次成为进贡大米运输的可行选择，可以在任何需要的时候采用; 也就是说，全面关闭的可能性成为现实和可预见的，尽管由于既得利益集团的存在而被推迟。与此同时，运河的状况开始恶化，使用率下降。图2显示了通过运河运输的贡米数量。不幸的是，这些数据稀疏而嘈杂，但是自1826年以来有一个暗示性的下降趋势。如果忽略拟合线，直接看数据本身，我们看到，尽管最初的恢复，有相当大的波动，在随后的几年。特别是，我们观察到运河运输在19世纪30年代早期和中期急剧下降。这种模式与大运河的关键——淮安仓库的海关收入报告是一致的，在1818年至1831年期间，报告的贸易量下降了约30% (von Glahn 2018)。因此，运河的衰落很可能早在1826年就开始了，那时还没有提出完全关闭运河的后续步骤。为此，我们以1826实验作为分析的处理日期。
+
+To assess the extent to which the 1826 experiment may be motivated by existing or anticipated rebellions associated with the canal, we look into the parliamentary debates on sea versus canal shipping. The main reason adduced by the reformers in support of sea shipping was its cost efficiency (faster, cheaper, and laborsaving). The reformers did not consider social disorder as a ground for abandoning the canal. Rather, the opponents frequently referred to social instability concerns as a claim against sea shipping (Ni 2005). Thus, it seems unlikely that the 1826 experiment was a response to past or future rebellions.[6](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#bookmark8)
+
+为了评估1826年的实验在多大程度上可能受到与运河有关的现有或预期叛乱的推动，我们研究了议会关于海运与运河航运的辩论。改革者提出的支持海运的主要原因是它的成本效益(更快、更便宜、更省力)。改革者并不认为社会动乱是放弃运河的理由。相反，反对者经常将社会不稳定的担忧称为对海运的索赔(Ni2005)。因此，1826年的实验似乎不太可能是对过去或未来叛乱的回应。6
+
+The canal’s abandonment necessarily deprived the canal cities of their access to this established trade route. The immediate losses came from the disappearance of
+
+运河的废弃必然剥夺了运河城市进入这条既定贸易路线的权利。直接的损失来自于
+
+through which the Grand Canal ran (or to which it was adjacent), allows us to empirically test the effects of the canal’s abandonment on social instability. We conduct our empirical analyses at the county (xian) level, which gives us two advantages. First, the administrative boundaries between counties remained stable during the study period (relative to provinces and prefectures) (Ge 1997). Second, by examining the most disaggregated administrative division in historical China, we are able to assess the considerable heterogeneity that is likely to exist at higher levels (e.g., in provinces and prefectures).
+
+大运河所经过的地方(或者与之毗邻的地方) ，使我们能够以实证的方式检验运河废弃对社会不稳定的影响。我们在县(县)层面进行了实证分析，这给我们带来了两个优势。首先，在研究期间，县与县之间的行政边界保持稳定(相对于省和地)(Ge 1997)。其次，通过研究历史上中国最细分的行政区划，我们能够评估可能存在于更高层次(例如，在省份和地区)的相当大的异质性。
+
+A. Rebellions
+
+答: 叛乱
+
+Our primary dependent variable is the number of rebellions reported in each county and year, normalized by the county’s initial population size. We construct this measure as follows. First, we count the number of rebellions reported in each county and year. This information comes from Qing Shilu (Veritable Records of the Qing Emperors), the official record of imperial edits and official memorials about events of national significance. According to Chinese historians, Qing Shilu is a unique source that provides the most reliable and comprehensive information on social unrest during the Qing Dynasty (Yang 1975; Kung and Ma 2014). Meticulously compiled by the Qing Court, it details the times and places of all rebellions during this period. We focus our analysis on the onset of rebellions, excluding the continuation of existing rebel groups that may spread across multiple regions or last for years (see online Appendix C for details). During our sample period, there were a total of 1,144 reported rebellion onsets (4.37 annually). The average number of rebellions onsets that a county experienced in a year is 0.0076.
+
+我们的主要因变量是每个县和每年报告的叛乱数量，由该县最初的人口规模标准化。我们按以下方式构造这个度量。首先，我们统计每个县和每年报告的叛乱数量。这些信息来自《清史录》 ，这是关于具有国家意义的事件的皇家编辑的官方记录和官方纪念馆。根据中国历史学家的说法，《清史录》是一个独特的资料来源，提供了关于清朝社会动荡的最可靠和全面的信息(杨1975年，孔和马2014年)。经清廷精心编纂，详细记载了这一时期一切叛乱的时间和地点。我们的分析集中在叛乱的开始，排除了现有的叛乱集团可能蔓延多个地区或持续多年的延续(见在线附录 C 的详细信息)。在我们的抽样调查期间，共有1,144人报告发生叛乱(每年4.37人)。一个县一年发生叛乱的平均次数是0.0076次。
+
+We then normalize the count of rebellions by the population size at the beginning of the period. We take 1600 as the reference year, for which Cao (2001) provides an estimate of the population size at the prefecture level. To estimate the county-level population in that year, we leverage an additional data source from Liang (1980) which estimates the county-level households in 1546. We impute the 1600 population in a county by allocating the prefecture’s 1600 population according to the distribution of households within that prefecture in 1546.[7](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#bookmark9) This normalized rebellion measure is available for 536 counties in our sample.
+
+然后，我们按照这一时期开始时的人口规模将叛乱数量正常化。我们以1600年为参考年份，曹(2001)提供了一个估计的地级人口规模。为了估计当年的县级人口，我们利用来自梁(1980)的额外数据来源估计1546年的县级家庭。我们通过根据1546年该地区内的家庭分布来分配该地区的1600人来估算一个县的1600人。这个标准化的叛乱措施可用于我们样本中的536个县。
+
+B. Treatment Intensities
+
+处理强度
+
+We construct four measures of treatment intensity. For our baseline analysis, we employ a binary measure based on the geographic adjacency to the canal. Counties bordering or containing a portion of the canal are considered in the treated group, while those away from the canal are considered in the control group. We assign the values based on a spatial join of the county boundaries and the canal’s path, both from Harvard Yenching Institute and Fudan Center for Historical Geography (2007). In our sample, 73 out of the 575 counties are assigned to the treated group (canal counties).
+
+我们构建了治疗强度的四个指标。对于我们的基线分析，我们采用了一种基于运河地理邻近度的二元测量方法。治疗组考虑的是毗邻或包含运河一部分的县，对照组考虑的是远离运河的县。我们根据哈佛燕京研究所和复旦历史地理中心(2007年)提供的县界和运河路线的空间连接来分配价值。在我们的样本中，575个县中的73个被分配到治疗组(运河县)。
+
+For the more extensive analyses, we construct three intensity measures that exploit additional variations within the baseline treated and control groups. The first two measures consider the extent to which the canal matters geographically and economically for a canal county. A county’s geographic dependence on the canal is proxied by the length of the portion of the canal the county contains. The length of the canal segment contained in a county is 32.45 km on average, with the longest one running 91.44 km. The economic dependence is proxied by the share of towns (serving as local markets) within ten km from the canal. The mean value conditional on being along the canal is 50 percent. Lastly, we compute the distance from a county’s administrative center to the canal to measure the spatial gradient of the canal’s impact beyond county boundaries. The average distance from the canal is 118 km in the sample, while the farthest county is 499 km away. All measures are constructed by applying the spatial join and the proximity analysis techniques to historical shapefiles provided by Harvard Yenching Institute and Fudan Center for Historical Geography (2007).
+
+对于更广泛的分析，我们构建了三个强度测量，利用基线治疗组和对照组的额外变化。前两项措施考虑的是运河在地理和经济上对运河县的重要程度。一个县对运河的地理依赖程度取决于该县所包含的运河部分的长度。一个县所包含的运河段平均长度为32.45公里，最长的运河段长度为91.44公里。经济上的依赖程度取决于距离运河10公里以内的城镇(作为当地市场)的份额。沿着运河的平均值是50% 。最后，我们计算了从一个县的行政中心到运河的距离，以测量运河对县界以外的影响的空间梯度。在样本中，距离运河的平均距离是118公里，而最远的县是499公里。所有的测量都是通过将空间连接和邻近分析技术应用到哈佛燕京研究所和复旦历史地理中心(2007)提供的历史图形文件中来构建的。
+
+- C. Control Variables
+
+    控制变量
+
+We include the following controls to alleviate the concern about omitted variable bias.
+
+我们包括以下控制，以减轻对省略可变偏倚的关注。
+
+Geography.—We include two geographical measures in our analysis. We first include a county’s land size which comes from the county-level shapefiles in Harvard Yenching Institute and Fudan Center for Historical Geography (2007). The average land size of a county in our sample is 1,622 km2. The spatial distribution of land size is depicted in online Appendix Figure C1. The second is the terrain ruggedness index suggested by Nunn and Puga (2012), which is based on the square root of the sum of the squared differences in elevation between one central grid cell and the eight adjacent cells (Riley, DeGloria, and Elliot 1999). Grid-cell elevation per 30 x 30 arc seconds is obtained from Global 30 Arc-Second Elevation (US Geological Survey 1997). For each county, the ruggedness index is constructed by computing the mean of all grid cells contained within it. The spatial distribution of the ruggedness index is depicted in online Appendix Figure C2, with a mean of 16.92 and a standard deviation of 19.53.
+
+地理ーー我们在分析中包括两个地理尺度。我们首先包括一个县的土地面积来自哈佛燕京研究所和复旦历史地理中心(2007年)的县级形状文件。在我们的样本中，一个县的平均土地面积是1,622平方公里。土地面积的空间分布情况见在线附录图 C1。第二个是 Nunn 和 Puga (2012)提出的地形粗糙度指数，其基于一个中央网格单元与八个相邻单元(Riley，DeGloria 和 Elliot 1999)之间的海拔平方差之和的平方根。每30x30弧秒的网格单元高度是从全球30弧秒高度(1997年美国地质调查局)获得的。对于每个县，粗糙度指数是通过计算包含在其中的所有网格单元的平均值来构造的。坚固性指数的空间分布图见在线附录图 C2，平均值为16.92，标准差为19.53。
+
+Demography.—We include the initial population density in 1600 as a control for demography. The variable is constructed from Cao (2001) and Liang (1980) following the procedure described above. The spatial distribution of this initial population measure is depicted in online Appendix Figure C3.
+
+人口统计学ーー我们把1600年的初始人口密度作为人口统计学的对照。这个变量是按照上面描述的过程从曹(2001)和梁(1980)构造的。在线附录图 C3描述了这个初始人口测量的空间分布。
+
+Climate.—We consider climate shocks as another fuse of rebellion (Miguel, Satyanath, and Sergenti 2004; Miguel 2005; Hsiang, Meng, and Cane 2011; Hsiang, Burke, and Miguel 2013). We measure climate shocks using information from two independent sources. One is the historical temperature reconstructed by Mann et al. (2009) at 5 x 5 arc degrees based on 1,209 geological proxy records over the past 1,500 years (based e.g., on tree rings, coral, sediment, etc.). We assign grid-cell temperatures to counties in our sample based on the cell’s coverage and define a temperature anomaly as a temperature that was beyond one standard deviation of the mean. Such temperature anomaly occurred approximately every three years in our sample. The alternative measure of climate shocks is the historical presence of extreme drought and flooding from Chinese Academy of Meteorological Sciences (1981), digitized by Chen and Kung (2016). A representative county in our sample experienced extreme drought every 10.24 years and extreme flooding every 13.44 years. We plot the spatial and chronological distribution for the presence of extreme drought and flooding in online Appendix Figure C4. We do not see any evidence of climate shock specific to the canal area or around 1826.
+
+气候变化ーー我们认为气候冲击是另一个反叛的导火索(米格尔、 Satyanath 和塞根蒂2004年; 米格尔2005年; 祥、孟和凯恩2011年; 祥、伯克和米格尔2013年)。我们使用来自两个独立来源的信息来测量气候冲击。一个是 Mann 等人(2009)根据过去1500年的1209个地质代用记录(例如，基于树木年轮、珊瑚、沉积物等)重建的5 × 5弧度的历史温度。我们根据细胞的覆盖范围为样本中的郡分配网格细胞温度，并将温度异常定义为超过平均标准差的温度。在我们的样本中，这种温度异常大约每三年发生一次。另一个衡量气候冲击的指标是中国气象科学研究院(1981)提供的极端干旱和洪水的历史记录，由陈和龚(2016)数字化。样本中有代表性的县每10.24年经历一次极端干旱，每13.44年经历一次极端洪涝灾害。在线附录图 C4中，我们绘制了极端干旱和洪水的空间和时间分布图。我们没有看到任何特定于运河地区或1826年左右的气候震荡的证据。
+
+Agriculture.—It is well documented that social conflicts are also subject to agricultural productivity: see, for example, Jia (2014) and Iyigun, Nunn, and Qian (2017). We consider the impacts of both traditional and New World crops. For traditional crops, we include the suitability index for wetland rice and wheat, the two main crops in our sample area (Talhelm et al. 2014). The information is extracted from IIASA and FAO (2012). The spatial distribution of the suitability for each of the two crops is depicted in online Appendix Figure C5. For New World crops, we consider the planting duration of two most prominent New World crops in China: maize and sweet potato. The information comes from Chen and Kung (2016). Online Appendix Figure C6a shows the year when the two crops were first adopted, which does not appear to depend on the canal. Online Appendix Figure C6b calculates the number of counties in which the crops have been adopted for each year. It appears that the spread of the crops does not coincide with the canal’s decline.
+
+农业ーー有充分证据表明，社会冲突也受到农业生产力的影响: 比如，参见贾跃亭(2014年)和伊犁(2017年)、纳恩(2017年)和钱(2017年)。我们考虑了传统作物和新世界作物的影响。对于传统作物，我们包括湿地水稻和小麦的适宜性指数，这是我们样本区域的两种主要作物(Talhelm et al. 2014)。信息摘自 IIASA 和 FAO (2012)。在线附录图 C5描述了这两种作物适宜性的空间分布。对于新大陆作物，我们考虑了中国两种最主要的新大陆作物: 玉米和甘薯的种植时间。信息来自陈和龚(2016)。在线附录图 C6a 显示了这两种作物首次采用的年份，这似乎并不依赖于运河。在线附录图 C6b 计算了每年收获这些作物的县数。看来农作物的蔓延与运河的衰落并不一致。
+
+[Table 1](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#bookmark10)summarizes the sources of and descriptive statistics for all the variables used in our analysis. Online Appendix Table A1 presents a comparison between the canal and non-canal counties in terms of the covariates. We notice that canal counties and non-canal counties are not systematically different in most dimensions. The two exceptions are initial population density and terrain ruggedness. While these variables are time invariant and therefore their effects should be captured by the county fixed effects, one might worry about their effects differing in the two periods. Therefore, we will control for the period-specific effects of all these covariates in our empirical analysis.
+
+表1总结了我们分析中使用的所有变量的来源和描述统计学。在线附录表 A1展示了运河县和非运河县之间协变量的比较。我们注意到运河县和非运河县在大多数维度上没有系统性的差异。两个例外是初始种群密度和地形崎岖。虽然这些变量是时间不变的，因此它们的影响应该由县固定效应来捕捉，但人们可能会担心它们的影响在这两个时期是不同的。因此，在我们的实证分析中，我们将控制所有这些协变量的特定时期效应。
+
+- D. Suggestive Evidence
+
+    暗示性证据
+
+Before proceeding to the formal analysis, we provide some descriptive evidence to help place our findings in context. Online Appendix Figure A1 shows the distribution of rebellions over time. It shows clearly that the frequency of rebellions significantly increases following the abandonment of the canal: from 1.35 annually before 1825 to 10.55 annually afterwards. The number keeps increasing until the peak occurs in 1861, in which year a total of 66 rebellions take place, after which the number of rebellions does not fall until the 1870s. The spatial distribution of the rebellions also reveals a potential relationship between the canal’s abandonment
+
+在进行正式的分析之前，我们提供一些描述性的证据来帮助我们把我们的发现放在上下文中。在线附录图 A1显示了随着时间的推移叛乱的分布情况。这清楚地表明，运河废弃后，叛乱的频率明显增加: 从1825年以前的每年1.35次增加到1825年以后的每年10.55次。这个数字一直在增加，直到1861年达到顶峰，那一年一共发生了66起叛乱，之后的叛乱数量直到19世纪70年代才下降。叛乱的空间分布也揭示了运河废弃之间的潜在关系
+
+Table 1—Data Sources and Summary Statistics
+
+表1ーー数据来源和简要统计
+
+ |  | Source<br><br>来源 | Observations<br><br>观察 | Mean<br><br>刻薄 | Std. dev.<br><br>性病。 |
+| --- | --- | --- | --- | --- |
+ | Outcome<br><br>结果 |  |
+ | Number of rebellions per million population<br><br>每百万人口的叛乱次数 | 1 | 140,432 | 0.4604 | 7.1172 |
+ | Treatments<br><br>治疗 |  |
+ | Being along the Grand Canal<br><br>沿着大运河 | 2 | 150,650 | 0.1270 | 0.3329 |
+ | Length of canal per 100 km2<br><br>每100平方公里运河长度 | 2 | 150,650 | 0.4065 | 1.3768 |
+ | Share of towns within 10 km of the canal<br><br>运河10公里范围内的城镇比例 | 2 | 138,598 | 0.0684 | 0.2105 |
+ | Distance from the Grand Canal (km)<br><br>距大运河(公里) | 2 | 150,650 | 118.0353 | 113.3476 |
+ | Controls<br><br>控制 |  |
+ | Land size<br><br>土地面积 | 2 | 150,650 | 1,622.2486 | 1,528.0102 |
+ | Ruggedness index<br><br>坚固度指数 | 5 | 150,650 | 72.7510 | 97.5940 |
+ | Temperature anomaly<br><br>温度异常 | 3 | 150,650 | 0.3459 | 0.4757 |
+ | Flood<br><br>洪水 | 4 | 150,650 | 0.0743 | 0.2623 |
+ | Drought<br><br>干旱 | 4 | 150,650 | 0.0976 | 0.2968 |
+ | Population density<br><br>人口密度 | 6 | 145,934 | 54.0430 | 167.1533 |
+ | Year of maize adoption<br><br>玉米采用年份 | 4 | 147,506 | 1,718.4050 | 95.5303 |
+ | Year of sweet potato adoption<br><br>甘薯领养年 | 4 | 60,522<br><br>60522 | 1,755.0130 | 51.1259 |
+ | Suitable for wetland rice<br><br>适用于湿地水稻 | 8 | 150,650 | 0.0661 | 0.2484 |
+ | Suitable for wheat<br><br>适合小麦 | 8 | 150,650 | 0.4139 | 0.4925 |
+ | Supplements<br><br>补品 |  |
+ | Imperial soldiers stationed<br><br>帝国士兵已经就位 | 7 | 150,650 | 154.2104 | 345.5507 |
+ | Prefecture capital<br><br>州首府 | 2 | 150,650 | 0.1391 | 0.3461 |
+ | Number of attacking cases<br><br>攻击个案数目 | 1 | 150,650 | 0.0054 | 0.0822 |
+ | Number of retreating cases<br><br>撤退案件数目 | 1 | 150,650 | 0.0036 | 0.0690 |
+ | Number of towns and local markets<br><br>城镇和当地市场的数量 | 2 | 1,150<br><br>1150 | 12.4957 | 10.7650 |
+ | Along the Qing courier routes<br><br>沿着清朝的信使路线 | 2 | 150,650 | 0.2800 | 0.4490 |
+ | Average grain price (silver tael per 10,000 kilocalorie)<br><br>粮食平均价格(每万千卡银两) | 4 | 91,110<br><br>91110 | 0.5980 | 0.1856 |
+ | Senior Green Gang members<br><br>高级青帮成员 | 9 | 150,650 | 0.2435 | 1.0582 |
+
+Sources:
+
+资料来源:
+
+- 1. Veritable Records of the Qing Emperors (Qing Shilu)
+
+    1. 《清史录》 - 2. Harvard Yenching Institution and Fudan Center for Historical Geography (2007), Berman (2017)
+
+    2. 哈佛燕京研究所和复旦历史地理中心(2007) ，伯曼(2017) - 3. Mann et al. (2009 a,b)
+
+    3. Mann 等人(2009年 a，b) - 4. Chen and Kung (2016)
+
+    4. 陈与龚(2016) - 5. Nunn and Puga (2012)
+
+    5. Nunn and Puga (2012)努恩和普加(2012) - 6. Liang (1980)
+
+    6. 梁(1980) - 7. Luo (1984)
+
+    罗(1984) - 8. IIASA and FAO (2012)
+
+    8. 国际航空航天学会和粮农组织(2012年) - 9. Encyclopedia of the Green Gang (Qingbang Tongcao Huihai)
+
+    9. 青帮百科全书(青帮通草汇海)
+
+and social instability. The left panel of [Figure 3](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#bookmark11)shows the distribution of rebellions in the pre-abandonment period, while the right panel shows the distribution in the post-abandonment period. The color intensity represents the number of rebellions reported. Before the abandonment, the rebellions are less frequent but more widely dispersed. Afterwards, the total number of rebellions increases, and, more importantly, the relative change is greater in areas located closer to the canal. This evidence of temporal as well as spatial distribution suggests that the abandonment of the canal may have contributed to the overall increase in rebellions in the nineteenth century.
+
+和社会不稳定。图3的左侧面板显示了被抛弃前期叛乱的分布情况，而右侧面板显示了被抛弃后期的分布情况。颜色强度代表报道的叛乱数量。在被遗弃之前，叛乱不那么频繁，但分布更广泛。此后，叛乱的总数增加，更重要的是，相对变化更大的地区位于运河附近。这种时间和空间分布的证据表明，运河的废弃可能导致了19世纪叛乱的全面增加。
+
+- III. Empirical Strategy and Results
+
+    三、经验性战略和结果
+
+In this section, we estimate the impact of the abandonment of the Grand Canal on rebellions. Section A characterizes our DID strategy and validates the identification assumptions. Section B presents our baseline estimates of binary treatment effects. We extend our analysis to allow for greater variation in treatment intensity in Section C.
+
+在这一部分，我们估计了废弃大运河对叛乱的影响。第一部分描述了我们的差异分离策略并验证了识别假设。B 部分介绍了我们对二元处理效应的基线估计。我们扩展我们的分析，以允许在 C 部分的治疗强度更大的变化。
+
+Before
+
+之前
+![](./The Amercian Economic Review, May 2022, Volume 112, Number 5_files/Rebel on the Canal Disrupted Trade Access and Social Conflict in China, 1650131911-2.jpg) 
+
+After
+
+之后
+![](./The Amercian Economic Review, May 2022, Volume 112, Number 5_files/Rebel on the Canal Disrupted Trade Access and Social Conflict in China, 1650131911-3.jpg) 
+Figure 3. The Spatial Distribution of Rebellions before and after the Abandonment
+
+图3。放弃前后叛乱的空间分布
+
+Note: The figure depicts the spatial distribution of rebellions before and after 1826.
+
+注: 该图显示了1826年前后叛乱的空间分布情况。
+
+- A. Empirical Strategy
+
+    经验策略
+
+Our empirical strategy follows the standard DID approach. We compare the relative changes in the frequency of rebellions in counties through which the canal runs relative to distant counties. The model specification takes the following form:
+
+我们的经验策略遵循标准的差分方法。我们比较了运河所经过的县与偏远县之间叛乱频率的相对变化。模型规范采用以下形式:
+
+(1)           Yct = 3 AlongCanalc x Postt + §c + &lt;rt + Xct + £ tt,
+
+(1) Yct = 3 AlongCanalc x Postt + c + &lt; rt + Xct + tt,
+
+where c indexes counties and t indexes years; AlongCanalc is a dummy variable that equals one if a county contains a canal stretch and zero otherwise. Hence, the treated group comprises canal counties while the control group comprises other ( non-canal) counties. We also use Postt as a dummy variable that equals one for the years after the abandonment. The equation also contains controls for county and year fixed effects, &lt;tc and ctt; xct denotes other time-variant controls. The coefficient of interest in equation (1) is 3, the estimated impact of the canal’s abandonment on the frequency of rebellions. We expect the coefficient to be positive, which would suggest a greater increase in the number of rebellions in canal counties.
+
+其中 c 对县和 t 对年份进行索引; AlongCanalc 是一个虚拟变量，如果一个县包含一条运河，则等于1，否则等于0。因此，治疗组包括运河县，而对照组包括其他(非运河)县。我们还使用 Postt 作为一个虚拟变量，在放弃后的年份中等于1。该方程还包含县和年固定效应的控制，&lt; tc 和 ctt; xct 表示其他时变控制。方程(1)中的利益系数为3，估计了运河废弃对叛乱频率的影响。我们预计这个系数是正的，这意味着运河县的叛乱数量会有更大的增加。
+
+The estimation strategy has all the advantages and potential pitfalls of standard DID estimators. County fixed effects control for all time-invariant factors that differ between counties. Year fixed effects control for any secular patterns of rebellions that similarly affect all regions. We include pretreatment rebelliousness times year dummies to account for the possibility that counties prone to disruptions may have differential reactions to common events. The model also takes into consideration province-specific year dummies as well as the prefecture-specific time trends. The identification relies on the assumption that there are no other omitted variables or events beyond those we have controlled that coincide with the reform and affect social unrest. We should not take this assumption for granted because China experienced many notable events during the nineteenth century (for example, the Opium War and the Taiping Rebellion). We address this issue in Section IV.
+
+该估计策略具有标准差分估计器的所有优点和潜在缺陷。不同县之间所有时间不变因素的县固定效应控制。年度固定效应控制任何世俗模式的叛乱，同样影响所有地区。我们包括预处理叛逆时期的年度假人，以解释易于中断的县可能对常见事件有不同反应的可能性。该模型还考虑了具体省份的年份假设以及具体地区的时间趋势。鉴定依赖于这样一个假设，即除了我们已经控制的变量或事件之外，没有其他与改革相一致并影响社会动荡的变量或事件。我们不能想当然地认为这是理所当然的，因为中国在十九世纪经历了许多值得注意的事件(例如鸦片战争和太平天国起义)。我们在第四部分讨论这个问题。
+
+We define the pre- and post-reform periods by the first sea transportation experiment in 1826 for three reasons. First, the 1826 experiment, though temporary, marked a milestone of the destiny of the canal, which might change the expectations and behaviors of all parties involved, especially those forward-looking merchants. These changes likely affected canal trade even after the government restored the operation of the canal in the following decades. Second, we observe a downward trend in canal usage following the 1826 experiment (see Section I for details), which indicates a gradual decline in the canal economy since then. Moreover, the 1826 experiment provides a cleaner setting for identification, whereas those later dates could be endogenous to socioeconomic conditions that were shaped, perhaps in the first place, by the 1826 experiment. Therefore, we believe that 1826 would be a reasonable treatment date choice for identification purposes.
+
+我们通过1826年的第一次海上运输实验来界定改革前后的时期，原因有三。首先，1826年的试验虽然是暂时的，但却标志着运河命运的一个里程碑，这可能会改变所有相关各方的期望和行为，特别是那些有远见的商人。这些变化很可能影响到运河贸易，即使在随后的几十年中，政府恢复了运河的运营。其次，我们观察到1826年实验后运河使用量的下降趋势(详见第一部分) ，这表明从那时起运河经济逐渐衰退。此外，1826年的实验为鉴定提供了一个更清晰的环境，而那些后来的日期可能是内生的社会经济条件，也许首先是由1826年的实验塑造的。因此，我们认为1826年将是一个合理的治疗日期选择的鉴定目的。
+
+We confirm that this choice of treatment date is consistent with patterns in the data. Specifically, we estimate a fully flexible decade-by-decade estimating equation that takes the following form:
+
+我们确认这种治疗日期的选择与数据中的模式是一致的。具体而言，我们估计一个十年一个十年的完全灵活的估计方程，其形式如下:
+
+70
+
+(2)     Yct = £  /3TAlongCanalc x DecadeT + d c + a t + xct + £ ct,
+
+(2) Yct =/3TAlongCanalc x DecadeT + dc + a t + xct + ct,
+
+T=-50
+
+T = -50
+
+where all variables are defined as in equation (1). The only difference from equation (1) is that in equation (2), rather than interacting AlongCana t c with a post-reform indicator variable, we interact the treatment variable with each of the decade fixed effects (relative to 1826), treating the period more than 50 years before 1826 as the reference group. The estimated vectors of 3T reveal the differences between the treated and control counties during each decade. If, for example, the canal’s abandonment increases rebellions, then we would expect the estimated 3T to be constant over time for years before the reform took effect. We would also expect the coefficients to increase as the reform advanced.
+
+其中所有变量定义为方程(1)。与方程(1)的唯一区别是，在方程(2)中，我们不是将 AlongCana t c 与改革后的指标变量相互作用，而是将治疗变量与十年中的每一个固定效应(相对于1826年)相互作用，将1826年前50年以上的时期作为参照组。估计的3T 载体揭示了治疗和控制县之间的差异在每个十年。例如，如果运河的废弃增加了叛乱，那么我们可以预计，在改革生效之前的几年里，估计的3T 将保持不变。我们还预计，随着改革的推进，这些系数将会增加。
+
+[Figure 4](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#bookmark12)plots the estimates of equation (2). A clear pattern emerges from the figure. The difference between the treated and control groups is constant over time and small in magnitude before 1826. After the 1826 experiment, we first observe an increase in conflict in the first ten years (1826-1835) and a drop in the next ten years (1836-1845). The rise and fall of conflict alongside the canal during this period (an inverse-V shape) corresponds to the drop in canal usage in the early 1830s and the rebound around the 1840s (a V-shape, as shown in Figure 2), suggesting that conflict reacted to changes in canal usage during this period. The difference between canal and non-canal counties increased again after the late 1840s when further steps toward a total closure were in place. The effect peaked 40 years after the first experiment (up to 1865), and converged from the 1870s onwards. This pattern is consistent with a
+
+图4绘制了方程(2)的估计值。从图中可以看出一个清晰的模式。治疗组和对照组之间的差异随着时间的推移是恒定的，1826年以前的差异很小。在1826年的实验之后，我们首先观察到冲突在前十年(1826-1835)有所增加，在接下来的十年(1836-1845)有所下降。在这个时期沿着运河的冲突的上升和下降(一个倒 V 形状)对应于19世纪30年代早期运河使用的下降和19世纪40年代左右的反弹(一个 V 形状，如图2所示) ，表明冲突反应在这个时期运河使用的变化。19世纪40年代后期，运河县和非运河县之间的差距再次扩大，当时采取了进一步的措施实现全面关闭。这种效应在第一次实验后的40年达到顶峰(直到1865年) ，并从19世纪70年代开始收敛。此模式与
+![](./The Amercian Economic Review, May 2022, Volume 112, Number 5_files/Rebel on the Canal Disrupted Trade Access and Social Conflict in China, 1650131911-4.jpg) 
+Figure 4. Canal Closure and Rebellions: Event Study
+
+图四: 关闭运河与叛乱: 事件研究
+
+Notes: The figure depicts the differences in rebellions between canal versus non-canal counties before and after the 1826 reform. The markers and capped spikes represent the ordinary least squares estimators and 95 percent confidence intervals based on standard errors clustered at the county level. The dependent variable is the inverse hyperbolic sine transformation of the number of rebellions normalized by 1600 population. The dashed vertical line represents the 1826 treatment date, and the periods are grouped every ten years relative to 1826 (i.e., represents the 1816-1825 period, represents the 1826-1835 period, etc.). The reference groups are the years more than 50 years before 1826. The regression considers county fixed effects, year fixed effects, pretreatment rebelliousness x year fixed effects, and province x year fixed effects.
+
+注: 该图描绘了1826年改革前后运河县与非运河县之间叛乱的差异。这些标记和有上限的峰值代表了一般最小平方法的估计值和95% 的置信区间，这些置信区间基于县级聚类的标准误差。因变量是由1600人口归一化的叛乱次数的反双曲正弦变换。虚线垂直线表示1826年的治疗日期，相对于1826年，每十年分组一次(即代表1816-1825年期间，代表1826-1835年期间等)。参考群体是指1826年以前50多年的年份。回归分析考虑了县域固定效应、年份固定效应、治疗前叛逆性 x 年份固定效应和省份 x 年份固定效应。
+
+gradual decline of the canal starting in 1826, which confirms our choice of 1826 as the treatment date.
+
+运河从1826年开始逐渐衰落，这证实了我们选择1826年作为治疗日期。
+
+The point estimates shown in Figure 4 also suggest no differential trends between the two groups before the reform, which is the key assumption of our identification. We formally test this assumption for additional verification by restricting our sample to the 50 years before the reform and estimate a variant model of equation (1):
+
+图4所示的点估计数也表明，在改革之前，这两个群体之间没有不同的趋势，这是我们确定的关键假设。我们通过将样本限制在改革前的50年，正式测试这个假设以进行额外的验证，并估计方程(1)的变量模型:
+
+(3)           Yct = fiAlongCanalc x Yeart + 6C + a t + Xa + c it.
+
+(3) Yct = fiAlongCanalc x Yeart + 6C + a t + Xa + c it.
+
+In this model, the coefficient fi of the interaction term AlongCanalc x Yeart captures the difference in time trends between the treated and control groups. We summarize the results in[Table 2](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#bookmark13), with different sets of controls included to derive the table columns’ results. Across all columns, the differences are tiny and statistically nonsignificant, which confirms that there are no pre-existing differential trends in the data and that the model’s identification assumption is likely satisfied.
+
+在这个模型中，相互作用项 AlongCanalc x Yeart 的系数 fi 捕获了治疗组和对照组之间时间趋势的差异。我们在表2中总结了结果，其中包含了不同的控件集，用于派生表列的结果。在所有列中，差异都很小，在统计学上不显著，这证实了数据中不存在预先存在的差异趋势，并且模型的识别假设可能得到满足。
+
+- B. Baseline Estimates
+
+    基线估计
+
+We present our baseline estimates derived from equation (1) in[Table 3](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#bookmark14), where the dependent variable is the frequency of rebellions normalized by population, calculated as the inverse hyperbolic sine of the value. The five columns reflect varying combinations of controls. For column 1, we control for county and year fixed effects. This specification allows us to rule out all time-invariant county features
+
+我们提出了我们的基线估计来源于表3中的方程(1) ，其中因变量是由人口归一化的叛乱频率，计算为值的反双曲正弦。这五列反映了控件的不同组合。对于第1栏，我们控制县和年的固定效果。这个规范允许我们排除所有时间不变的县特征
+
+Table 2—Canal Closure and Rebellions: Pretreatment Trends
+
+表2-关闭运河与叛乱: 预处理趋势
+
+ |  | Rebellions<br><br>叛乱 |
+| --- | --- |
+ | (1) | (2) | (3) | (4) |
+ | AlongCanal x year<br><br>沿运河 x 年 | 0.0003 | -0.0000<br><br>-0000 | -0.0002 | -0.0003 |
+ |  | (0.0006) | (0.0006) | (0.0006) | (0.0007) |
+ |  | [0.0007] | [0.0007] | [0.0007] | [0.0008] |
+ | Constant<br><br>不变 | -0.0523 | 0.0255 | 0.0753 | 0.0804 |
+ |  | (0.1400) | (0.1372) | (0.1522) | (0.1689) |
+ | County fixed effects (FE)<br><br>县级固定影响(FE) | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 |
+ | Year FE<br><br>元旦 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 |
+ | Pre-reform rebellion x year FE<br><br>改革前叛乱 | No<br><br>没有 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 |
+ | Province x year FE<br><br>省 X 年 | No<br><br>没有 | No<br><br>没有 | Yes<br><br>是的 | Yes<br><br>是的 |
+ | Prefecture year trend<br><br>县年趋势 | No<br><br>没有 | No<br><br>没有 | No<br><br>没有 | Yes<br><br>是的 |
+ | Mean of the dependent variable<br><br>因变量的平均值 | 0.0198 | 0.0198 | 0.0198 | 0.0198 |
+ | Number of observations<br><br>观察次数 | 26,800<br><br>26800 | 26,800<br><br>26800 | 26,800<br><br>26800 | 26,800<br><br>26800 |
+ | Number of counties<br><br>县数 | 536 | 536 | 536 | 536 |
+ | Adjusted R1<br><br>调整后的 R1 | 0.0133 | 0.0355 | 0.0473 | 0.0495 |
+
+Notes: The sample consists of 536 counties in the six provinces around the canal from 1776 to 1825. The dependent variable is the inverse hyperbolic sine transformation of the number of rebellions normalized by 1600 population. AlongCanal is an indicator that equals one if the county is adjacent to the canal. Standard errors in parentheses are clustered at the county level. Standard errors in brackets are Conley standard errors robust for spatial correlation, assuming a cutoff window of 500 km and a serial correlation of 50 years.
+
+注: 样本包括1776年至1825年运河周边六省的536个县。因变量是由1600人口归一化的叛乱次数的反双曲正弦变换。阿隆运河是一个指示器，如果该县毗邻运河，则等于1。括号中的标准错误在县一级进行聚类。括号内的标准误差是 Conley 标准误差，假设截止窗口为500公里，序列相关为50年，因此对空间相关性具有鲁棒性。
+
+Table 3—Canal Closure and Rebellions: Baseline Estimates
+
+表3-关闭运河与叛乱: 基线估计
+
+ |  | Rebellions<br><br>叛乱 |
+| --- | --- |
+ | (1) | (2) | (3) | (4) | (5) |
+ | AlongCanal x Post<br><br>沿着 x 运河邮局 | 0.0380 | 0.0369 | 0.0453 | 0.0427 | 0.0340 |
+ |  | (0.0166) | (0.0172) | (0.0173) | (0.0172) | (0.0166) |
+ |  | [0.0165] | [0.0167] | [0.0167] | [0.0168] | [0.0168] |
+ | Constant<br><br>不变 | 0.0313 | 0.0314 | 0.0310 | 0.0311 | -0.0268 |
+ |  | (0.0007) | (0.0007) | (0.0008) | (0.0007) | (0.0195) |
+ | County FE<br><br>FE 郡 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 |
+ | Year FE<br><br>元旦 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 |
+ | Pre-reform rebellion x year FE<br><br>改革前叛乱 | No<br><br>没有 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 |
+ | Province x year FE<br><br>省 X 年 | No<br><br>没有 | No<br><br>没有 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 |
+ | Prefecture year trend<br><br>县年趋势 | No<br><br>没有 | No<br><br>没有 | No<br><br>没有 | Yes<br><br>是的 | Yes<br><br>是的 |
+ | Controls x Post<br><br>控制 x 岗位 | No<br><br>没有 | No<br><br>没有 | No<br><br>没有 | No<br><br>没有 | Yes<br><br>是的 |
+ | Mean of the dependent variable<br><br>因变量的平均值 | 0.0330 | 0.0330 | 0.0330 | 0.0330 | 0.0330 |
+ | Number of observations<br><br>观察次数 | 140,432 | 140,432 | 140,432 | 140,432 | 140,432 |
+ | Number of counties<br><br>县数 | 536 | 536 | 536 | 536 | 536 |
+ | Adjusted R2<br><br>调整过的 R2 | 0.0253 | 0.0322 | 0.0471 | 0.0497 | 0.0509 |
+
+Note: The sample consists of 536 counties in the six provinces around the canal from 1650 to 1911. The dependent variable is the inverse hyperbolic sine transformation of the number of rebellions normalized by 1600 population. AlongCanal is an indicator that equals one if the county is adjacent to the canal. Post is an indicator that equals one in and after 1826. The control variables include land size (ln), terrain ruggedness, an indicator of temperature anomaly, an indicator of drought, an indicator of flooding, population density in 1600, an indicator of maize adoption, an indicator of sweet potato adoption, an indicator of being suitable for wheat, and an indicator of being suitable for wetland rice. Standard errors in parentheses are clustered at the county level. Standard errors in brackets are Conley standard errors robust for spatial correlation, assuming a cutoff window of 500 km and a serial correlation of 262 years.
+
+注: 样本包括1650年至1911年运河周边六省的536个县。因变量是由1600人口归一化的叛乱次数的反双曲正弦变换。阿隆运河是一个指示器，如果该县毗邻运河，则等于1。职位是一个指标，等于一在1826年和之后。控制变量包括土地面积(ln)、地形崎岖度、气温异常指标、干旱指标、洪涝指标、1600年种群密度、玉米采用指标、甘薯采用指标、小麦适宜指标和湿地水稻适宜指标。括号中的标准错误在县一级进行聚类。括号内的标准误差是对空间相关性具有鲁棒性的 Conley 标准误差，假设截止窗口为500公里，序列相关性为262年。
+
+and year shocks that unanimously affect all regions. For column 2, we include the pretreatment measure of rebellions (the total number of rebellions per capita in the pretreatment period, with the arcsinh transformation) interacted with year dummies. This specification allows common shocks to have differential effects in counties that were already more prone to disruptions in the first period.[8](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#bookmark15) For column 3, we add province-year fixed effects to take into account differential time effects across provinces. For column 4, we add prefecture-specific year trends to account for differences in regional trends. For column 5, we further include the set of control variables introduced in Section IIC; we allow these covariates to have differential effects in the pre- and post-reform periods by interacting each of them with the post-reform indicator. For each column, we report two sets of standard errors. First, the standard errors in the parentheses are clustered at the county level, as counties represent the lowest and foundational administrative division with complete bureaucratic systems and function independently of one another (Ge 1997). Second, we report in square brackets the Conley standard errors following the approaches suggested in Conley (1999) and Conley (2008), assuming a cutoff window of 500 km and allowing a serial correlation across all 262 years.[9](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#bookmark16)
+
+以及一致影响所有地区的年度冲击。对于第二列，我们包括与年份假人相互作用的叛乱预处理措施(预处理期间的人均叛乱总数，带有拱顶变换)。这一规范允许共同冲击对在第一阶段已经更容易中断的县产生不同的影响。对于第4栏，我们添加了地区特定年份的趋势，以说明区域趋势的差异。对于第5栏，我们进一步包括第 IIC 节中介绍的一组控制变量; 我们允许这些协变量在改革前和改革后期间通过与改革后指标相互作用而产生不同的影响。对于每个列，我们报告两组标准错误。首先，括号中的标准错误集中在县一级，因为县代表最低和基础的行政区划，具有完整的官僚系统和相互独立的功能(Ge 1997)。其次，我们按照 Conley (1999年)和 Conley (2008年)提出的方法，在方括号内报告 Conley 标准误差，假设截止窗口为500公里，并允许在所有262年之间存在连续相关性
+
+The results we obtain across all specifications are positive and significant, suggesting that more rebellions occurred in canal counties after the abandonment. For example, the point estimator reported in column 1 is 0.0380, which represents an exp(0.0380) — 1 = 0.0387 increase in rebellions per million population. This effect corresponds to a 117 percent increase from the sample mean (0.0330) and is significant at the 5 percent level. The estimated coefficients reported in columns 2 through 5 exhibit magnitudes and significance levels similar to those reported in column 1.
+
+我们在所有规范中得到的结果都是积极和有意义的，这表明在废弃运河之后，运河县发生了更多的叛乱。例如，第1列中报告的点估计值是0.0380，表示每百万人口中叛乱增加的 exp (0.0380)ー1 = 0.0387。这种效应相当于从样本平均值(0.0330)增加了117% ，在5% 的水平上是显著的。列2至列5中报告的估计系数的大小和显著性水平与列1中报告的大小和显著性水平相似。
+
+Robustness.—In the online Appendix, we show that our baseline estimates are robust to alternative modeling choices regarding the sample selection, outcome measures, and standard error adjustments. First, we present the estimated coefficients from different sampling methods in online Appendix Table A2. Panels A through E present estimates using 20-, 100-, and 200-year windows as well as the full 262-year window. In each panel, we report the estimated treatment effects for samples consisting of counties in canal prefectures (column 1), counties within 100 km, 150 km, and 200 km from the canal (columns 2-4), and all baseline counties (column 5). We also confirm that our estimates are robust to aggregating the number of rebellions at the prefecture level (column 6).
+
+在线附录中，我们展示了我们的基线估计对于关于样本选择、结果测量和标准误差调整的替代建模选择是稳健的。首先，我们在线附录表 A2中给出了不同抽样方法的估计系数。小组 A 到 E 目前的估计使用20,100和200年的窗口以及完整的262年的窗口。在每个小组中，我们报告了由运河州县(第1列) ，距离运河100公里，150公里和200公里以内的县(第2-4列)和所有基线县(第5列)组成的样本的估计治疗效果。我们还证实，我们的估计是强有力的，以汇总叛乱的数量在地方一级(第6栏)。
+
+Second, we show in online Appendix Table A3 that our estimates do not depend on how we construct the outcome variable. For panel A, we normalize the number of rebellions by population in 1820, the latest pre-reform year for which population is available. The estimated coefficients are smaller than those in the baseline—which mechanically reflects the population growth over the two centuries—but all are significant at similar levels. For panel B, we normalize the number of rebellions by a yearly population imputed using linear interpolation. For panel C, we normalize the number of rebellions by land area instead of population. For panel D, we use the unnormalized number of rebellions as the dependent variable. For panel E, we apply the same normalization method as in the baseline but forgo the arcsinh transformation. Our estimates are robust to all these alternative specifications.
+
+其次，我们在在线附录表 A3中显示，我们的估计并不取决于我们如何构建结果变量。对于图 A，我们将1820年按人口统计的叛乱数量正常化，这是改革前最近的一个人口年。估计系数小于基线系数(机械地反映了两个世纪以来的人口增长) ，但在相似的水平上都很重要。对于面板 b，我们使用线性插值将每年人口中的叛乱数量正常化。对于面板 C，我们按照土地面积而不是人口将叛乱数量正常化。对于图 D，我们使用反叛的非标准化数量作为因变量。对于面板 E，我们应用与基线中相同的标准化方法，但是放弃了 arcsinh 转换。我们的估计对所有这些替代规范都是稳健的。
+
+Finally, in online Appendix Figure A2, we experiment with the Conley standard errors using a range of bandwidths for distance (50, 100, 200, 500, 1,000, 2,000 km) and time (20, 100, 200, 262 years) cutoffs and plot the t-statistics derived from each of those combinations. The specifications in the five panels correspond to the five columns in Table 3. We see that the t-statistics are consistent and significant at conventional levels regardless of how we adjust for standard errors. It is worth pointing out that the cutoffs we report as the baseline produce the most conservative set of Conley standard errors.
+
+最后，在线附录图 A2中，我们使用距离(50,100,200,500,1,000,2,000公里)和时间(20,100,200,262年)的带宽范围对 Conley 标准误差进行了实验，并绘制了来自每种组合的 t 统计量。五个面板中的规范对应于表3中的五列。我们看到，无论我们如何调整标准误差，t 统计量在常规水平上是一致的和重要的。值得指出的是，我们报告的作为基线的截止值产生了最保守的 Conley 标准误差集。
+
+- C. Treatment Intensities
+
+    处理强度
+
+One limitation of our empirical study is that we lack well-defined treatment and control groups. At baseline, we specify a binary treatment variable and draw natural comparisons between canal counties and the rest of the counties. In doing so, we implicitly assume that the treatment is uniform and confined by the counties’ boundaries. These restrictions are perhaps arbitrary. On the one hand, some canal counties may rely more heavily on the canal and therefore hit more severely by its abandonment. On the other hand, the impact of the canal’s closure may spill over to nearby non-canal counties due to decreased market access. This section lifts the restriction of binary treatment and allows more flexible treatment intensity measures along various dimensions.
+
+我们实证研究的一个局限性是我们缺乏明确的治疗组和对照组。在基线时，我们指定一个二元处理变量，并在运河县和其他县之间进行自然比较。在这样做的时候，我们含蓄地假设待遇是统一的，并且受到各县的边界限制。这些限制或许是武断的。一方面，一些运河县可能更多地依赖运河，因此受到更严重的打击，它的废弃。另一方面，由于市场准入减少，运河关闭的影响可能会波及到附近的非运河县。这一部分解除了二元处理的限制，并允许在各个方面采取更灵活的处理强度措施。
+
+Intensities among Canal Counties.—We start by exploring how the treatment intensity may differ among canal counties. We consider two intensity measures: a geographic measure and an economic measure. The geographic measure is defined as the length of the portion of the canal contained within the county normalized by the county’s land size. It captures the extent to which the canal matters geographically for the county. The economic measure is defined as the share of 1820 towns (serving as local marketplaces) within ten kilometers from the canal.[10](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#bookmark17) It captures the extent to which the county’s economy depended on the canal’s functioning on the eve of the closure. We expect counties that depend more on the canal (either geographically or economically) to be more severely affected by its abandonment.
+
+运河县之间的治疗强度ーー我们首先探讨运河县之间治疗强度的差异。我们考虑两个强度测度: 一个地理测度和一个经济测度。地理尺度的定义是县内运河部分的长度，由县的土地面积标准化。它反映了运河对该县地理位置的重要程度。这个经济指标被定义为距离运河10公里以内的1820个城镇(作为当地市场)所占的份额。10它反映了在运河关闭前夕，该县的经济在多大程度上依赖于运河的运行。我们预计，那些更依赖运河的县(无论是地理上还是经济上)将受到运河废弃的更严重影响。
+
+We confirm these two hypotheses by estimating the following equations:
+
+我们通过估计下列方程来证实这两个假设:
+
+- (4)        Yct = (3 Canallntensityc x Postt + d c + at + xa + £ a,
+
+    (4) Yct = (3 Canallntensityc x Postt + dc + at + xa + a,
+
+K
+
+- (5)        Ya = £ PkIntensityGroupc x Posa + 5C + at + x ct + £ct,
+
+    (5) Ya = Pk 强度集团 x Posa + 5C + at + x ct + ct,
+
+k=0
+
+K = 0
+
+where equation (4) assumes a linear function of treatment intensity (measured either way) while equation (5) uses a more flexible specification to estimate a separate coefficient for each intensity group (indexed by k). For both intensity measures,
+
+其中方程(4)假设治疗强度的线性函数(以任一方式测量) ，而方程(5)使用更灵活的规范来估计每个强度组的单独系数(以 k 为索引)。对于这两种强度测量方法,
+
+Table 4—Canal Closure and Rebellions: Treatment Intensities
+
+表4-关闭运河与叛乱: 处理强度
+
+ |  | Rebellions<br><br>叛乱 |
+| --- | --- |
+ | (1) | (2) | (3) |
+ | CanalLength (per 100 km2) x Post<br><br>渠长(每100平方公里) x 邮递 | 0.0200 (0.0104) [0.0094]<br><br>0.0200(0.0104)[0.0094] |  |  |
+ | CanalTownShare x Post<br><br>CanalTownShare x 邮政 |  | 0.0770 (0.0292) [0.0269]<br><br>0.0770(0.0292)[0.0269] |  |
+ | DistanceToCanal x Post<br><br>距离运河 x 邮局 |  |  | -0.0142 |
+ |  |  |  | (0.0038)<br><br>[0.0046] |
+ | Constant<br><br>不变 | 0.0315 | 0.0315 | 0.0561 |
+ |  | (0.0007) | (0.0007) | (0.0063) |
+ | County FE<br><br>FE 郡 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 |
+ | Year FE<br><br>元旦 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 |
+ | Pre-reform rebellion x year FE<br><br>改革前叛乱 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 |
+ | Province x year FE<br><br>省 X 年 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 |
+ | Prefecture year trend<br><br>县年趋势 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 |
+ | Mean of the dependent variable<br><br>因变量的平均值 | 0.0330 | 0.0334 | 0.0322 |
+ | Number of observations<br><br>观察次数 | 140,432 | 129,166 | 130,476 |
+ | Number of counties<br><br>县数 | 536 | 493 | 498 |
+ | Adjusted R2<br><br>调整过的 R2 | 0.0497 | 0.0515 | 0.0485 |
+
+Notes: The sample consists of 536 counties in the six provinces around the canal from 1650 to 1911. The dependent variable is the inverse hyperbolic sine transformation of the number of rebellions normalized by 1600 population. CanalLength (per 100 km2) is the length of the canal portion (in km) contained with the county’s boundary, divided by the size of the county (in 100 km2). CanalTownShare is the share of towns within ten kilometers away from the canal, measured in 1820. DistancetToCanal is the distance from a county’s geological center to the canal. Post is an indicator that equals one in and after 1826. Standard errors in parentheses are clustered at the county level. Standard errors in square brackets are Conley standard errors robust for spatial correlation, assuming a cutoff window of 500 km and a serial correlation of 262 years.
+
+注: 样本包括1650年至1911年运河周边六省的536个县。因变量是由1600人口归一化的叛乱次数的反双曲正弦变换。运河长度(每100平方公里)是包含该县边界的运河部分的长度(以公里为单位) ，除以该县的面积(以100平方公里为单位)。运河镇份额是距离运河10公里以内的城镇的份额，计算于1820年。距离运河是从一个县的地质中心到运河的距离。职位是一个指标，等于一在1826年和之后。括号中的标准错误在县一级进行聚类。方括号内的标准误差是 Conley 标准误差，假设截止窗口为500公里，序列相关为262年，对空间相关性具有鲁棒性。
+
+we expect the coefficient 3 estimated from equation (4) to be positive and the coefficients /3ks estimated from equation (5) to be larger for more intensively affected groups.
+
+我们期望从方程(4)估计的系数3是正的，从方程(5)估计的系数/3k 对于受影响更严重的群体来说更大。
+
+We estimate equation (4) for both intensity measures and report the results in the first two columns of[Table 4](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#bookmark18). Column 1 estimates rebelliousness as a linear function of canal length per 100 km2 (the geographic intensity). Column 2 estimates rebelliousness as a linear function of within-ten km town share (the economic intensity). The results confirm our hypotheses that the reform’s impact increases with the extent to which the county depends on the canal (both geographically and economically).
+
+我们估计方程(4)的两个强度措施和报告的结果在表4的前两栏。第1列估计叛逆作为一个线性函数的渠道长度每100平方公里(地理强度)。第2列估计叛逆作为一个线性函数在10公里内的城镇份额(经济强度)。结果证实了我们的假设，即改革的影响随着该县依赖运河的程度而增加(无论是地理上还是经济上)。
+
+To further illustrate these results, online Appendix Figure A3 plots, for both intensity measures, the estimate from equation (5). Panel (a) of online Appendix Figure A3 shows the flexible estimates of our geographic measure of treatment intensity, for which we group canal counties by the length of the canal they contain (normalized by land size). The reference group consists of counties away from the canal. We find that counties containing less than 2km per 100km2 ( 32km for a county of average size) do not appear more rebellious than non-canal counties. Overall, the figure suggests larger effects in counties relying more on the canal geographically, though the relationship is not monotonic.
+
+为了进一步说明这些结果，在线附录图 A3绘制了这两个强度测量的估计方程(5)。在线附录图 A3的图(a)显示了我们对治疗强度的地理测量的灵活估计，我们根据运河所包含的运河长度(按土地面积归一化)对运河县进行分组。参照组由运河以外的县组成。我们发现，每100平方公里不到2公里的县(对于一个中等规模的县来说是32公里)看起来并不比非运河县更叛乱。总的来说，这个数字表明，在地理上更多地依赖运河的县会受到更大的影响，尽管这种关系不是单调的。
+
+Turning to the economic measure of treatment intensity, panel (b) of online Appendix Figure A3 plots the flexible estimates from equation (5) for which we group canal counties by the share of towns within ten km of the canal. The reference group is the set of counties away from the canal. The figure shows that the impact of the canal’s closure increases proportionally to the share of canal towns of the county. In particular, canal counties with dispersed town distribution do not appear more rebellious than non-canal counties. Taken together, online Appendix Figure A3 suggests that the canal’s abandonment matters primarily for canal counties geographically or economically dependent on the functioning of the canal.
+
+关于治疗强度的经济测量，在线附录图 A3的面板(b)绘制了方程(5)的灵活估计，我们根据运河周围10公里内的城镇份额对运河县进行分组。参照组是远离运河的一组县。该图显示，运河关闭的影响随着该县运河城镇所占比例的增加而成比例增加。特别是城镇分布较为分散的运河县，其叛乱程度并不比非运河县明显。综上所述，在线附录图 A3表明，运河的废弃主要是因为运河县在地理上或经济上依赖于运河的功能。
+
+Spillover to Non-canal Counties.—The canal’s influence is not necessarily restricted to canal counties. It could naturally spill over to non-canal counties through the market access channel (Donaldson and Hornbeck 2016). Therefore, the canal’s abandonment might have also distorted non-canal counties, and the effect should depend on the county’s distance from the canal. To verify this hypothesis, we exploit variations in treatment intensity as a function of distance from the canal:
+
+对非运河县的溢出效应ーー运河的影响不一定局限于运河县。它可以通过市场准入渠道自然地蔓延到非运河县(Donaldson and Hornbeck 2016)。因此，运河的废弃也可能扭曲了非运河县，其影响应该取决于该县与运河的距离。为了验证这一假设，我们利用了治疗强度随距离的变化:
+
+- (6)           Ya = ^Distance\* x Postt + §c + O + Xct + £ct,
+
+    (6)呀 = ^ 距离 \* x Postt + c + O + Xct + ct,
+
+K
+
+- (7)           Y a = E ^Distancekc x Postt + $c + O + Xct + e ct,
+
+    (7) Y a = E ^ Distancekc x Postt + $c + O + Xct + e ct,
+
+k=0
+
+K = 0
+
+where we multiply Postt with Distancec, the distance to the canal, and each of the 25 km distance intervals, Distance^, respectively. The estimated coefficient 3 from equation (6) represents the linear change in rebelliousness as a function of distance. We expect it to have a negative sign since farther-away counties should be less responsive. Equation (7) estimates the treatment effects for each of the 25 km distance intervals, for which the reference group consists of counties more than 400 km away from the canal. We expect the estimated coefficients 3 ks to be decreasing with distances.
+
+用 Postt 乘以 Distancec，运河的距离，以及每个25公里的距离间隔，距离 ^ 。方程(6)中的估计系数3表示叛逆性随距离的线性变化。我们预计它将有一个负面的迹象，因为遥远的县应该较少反应。方程(7)估算了距运河400公里以外的县组成的25公里距离间隔中的每一个的处理效果。我们期望估计系数3k 随距离减小。
+
+We present the estimated coefficients from equation (6) in the last column of Table 4. The result confirms our hypothesis that the effect of the canal’s abandonment on rebelliousness decreases with a county’s distance from the canal and is significant at the 1 percent level. Online Appendix Figure A4 plots the estimates from equation (7) for each of the 25 km distance intervals. As expected, we find the estimated coefficients decreasing with distances from the canal. The figure is also informative about the range of the canal’s impact: counties more than 150 km away from the canal do not appear more rebellious than counties farther away. Therefore, we consider 150 km as the spatial range of the canal’s impact.
+
+我们在表4的最后一栏中给出了方程(6)的估计系数。结果证实了我们的假设，运河废弃对叛逆的影响随着一个县距离运河的距离而减小，在1% 的水平上是显著的。在线附录图 A4绘制了方程式(7)中25公里距离间隔的估计值。正如预期的那样，我们发现估计的系数随着距离渠道的距离而减小。这个数字也说明了运河的影响范围: 距离运河150公里以外的郡县看起来并不比较远的郡县更加反叛。因此，我们认为150公里的空间范围的运河的影响。
+
+Taken together, the estimates from more flexible treatment measures are consistent with our baseline findings from a binary treatment variable. They suggest that counties more dependent on the canal (either geographically or economically) were hit most severely by its closure, and the effects might have spilled over to a range of 150 km.
+
+综上所述，来自更灵活的治疗措施的估计与我们从二元治疗变量的基线发现是一致的。他们认为，更依赖运河的县(无论是地理上还是经济上)受到运河关闭的打击最为严重，其影响范围可能达到150公里。
+
+- IV. Addressing Additional Concerns
+
+    四. 解决其他关切问题
+
+In the previous section, we provide empirical evidence that there were more rebellions in the areas close to the canal in the years after 1826. While we have verified that there were no differential trends in rebellions between canal counties and non-canal counties before the reform, additional caution should be taken when interpreting the increases in rebellions as caused by the loss of the canal. The major threat to this causal interpretation resides in the fact that China entered a rather turbulent period in the mid-nineteenth century. Thus, one may be concerned about other national-level events differentially affecting canal counties if canal counties happened to be more susceptible to rebellions during an age of increasing unrest.
+
+在上一节中，我们提供的经验证明表明，在1826年以后，靠近运河的地区发生了更多的叛乱。虽然我们已经证实，在改革之前，运河县和非运河县之间的叛乱没有不同的趋势，但是在解释由于失去运河而造成的叛乱增加时，应该更加谨慎。这种因果关系解释的主要威胁在于中国在十九世纪中叶进入了一个相当动荡的时期。因此，人们可能会担心，如果运河县恰好在动荡日益严重的时期更容易发生叛乱，那么其他全国性事件会对运河县产生不同程度的影响。
+
+This section delves deeper into this broad concern about differential reactions to common events, focusing on the most worrisome and challenging scenario in which the differential reactions were caused by unknown or unobservable characteristics pertaining to the canal.[11](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#bookmark19) We adopt three independent approaches to diagnosing the extent to which this scenario might have distorted our results. First, we apply two alternative estimation techniques that accommodate the possibility of latent differences between the treated and the control groups: changes-in-changes (CIC) (Athey and Imbens 2006) and synthetic control method (SCM) (Abadie and Gardeazabal 2003; Abadie, Diamond, and Hainmueller 2010). Second, we consider placebo treatments to counties that might be inherently similar to canal counties but did not actually experience a loss of the canal. Finally, we devote particular attention to two major distortions in mid-nineteenth century China that might coincide with the advancement of the reform—the Opium War and the Taiping Rebellion—and examine the extent to which they might have affected canal counties differentially.
+
+这一部分深入探讨了对常见事件的不同反应的广泛关注，重点关注最令人担忧和具有挑战性的情况，其中不同反应是由与运河有关的未知或不可观察的特征引起的。我们采用三种独立的方法来诊断这种情况可能扭曲我们的结果的程度。首先，我们应用两种替代估计技术，以适应治疗组和对照组之间潜在差异的可能性: 变化(CIC)(Athey 和 Imbens 2006)和合成对照方法(SCM)(Abadie 和 Gardeazabal 2003; Abadie，Diamond 和 Hainmueller 2010)。其次，我们认为安慰剂治疗的县可能在本质上类似于运河县，但实际上没有经历运河的损失。最后，我们特别关注19世纪中叶中国可能与改革进程同时发生的两大扭曲事件——鸦片战争和太平天国运河县，并考察它们对运河县的不同影响程度。
+
+- A. Alternative Estimation Techniques
+
+    替代评估技术
+
+Our standard DID estimation requires the average treatment effect to be constant across all observations. One potential violation of this homogeneous treatment effect assumption is that areas prone to rebellions before the intervention might be more susceptible to other national distortions in the post-reform period, thus causing a plausibly differential reaction to some common shocks. Our baseline estimation attempts to alleviate this concern within the DID framework by controlling for the flexible time effects of pre-treatment rebelliousness. This section extends the methodology by employing two alternative estimation procedures that econometrically account for systematic differences between the treated and the control groups.
+
+我们标准的分离辐射估计要求所有观察的平均治疗效果是恒定的。这种同质治疗效果假设的一个潜在违反是，在干预之前容易发生叛乱的地区在改革后时期可能更容易受到其他国家扭曲的影响，从而对某些共同冲击造成可能存在差异的反应。我们的基线评估试图通过控制治疗前叛逆的灵活时间效应来减轻在分离性人格障碍框架内的这种担忧。本节通过采用两种可供选择的估算程序扩展了这一方法，这两种程序从计量经济学角度解释了治疗组和对照组之间的系统差异。
+
+Changes-in-Changes.—The first technique we employ is the CIC method developed by Athey and Imbens (2006), which generalizes the standard DID model. Instead of comparing the mean outcome in the treated and the control groups, the CIC estimator recovers the whole distribution of the counterfactual outcome and nonparametrically estimates the quantile treatment effects on the entire distribution by comparing the counterfactual distribution to the actual second-period distribution for the treated group. The method does not make assumptions on the functional form of the outcome distribution. Therefore, it allows the two groups to differ in the distribution of unobservable characteristics in arbitrary ways as long as the distribution is time invariant within each group. In particular, it accommodates the possibility that the treatment effect might differ systematically across groups.
+
+变化中的变化。我们采用的第一种技术是由 Athey 和 Imbens (2006)开发的 CIC 方法，它推广了标准的分离差分模型。CIC 估计器不比较治疗组和对照组的平均结果，而是恢复反事实结果的整个分布，并通过比较反事实分布与治疗组的实际第二期分布来非参数地估计分位数治疗对整个分布的影响。该方法不对结果分布的函数形式进行假设。因此，只要分布在每个组内是时不变的，它允许两个组以任意方式在不可观测特征的分布上有所不同。特别是，它考虑到了治疗效果可能在不同组之间有系统性差异的可能性。
+
+We follow the two-step procedure suggested by Athey and Imbens (2006) to estimate the quantile treatment effects on the distribution. The first step uses the parametric ordinary least square to partial out the effects of the covariates. In the second step, we apply the unconditional CIC estimator to the residuals to estimate a quantile treatment effect.[12](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#bookmark20) The effect at each quantile is estimated by comparing the changes of the treated distribution at that quantile to changes of the control distribution at a possibly different quantile that takes the same pretreatment outcome value. Thus, the treatment effect at each quantile is estimated from observations with comparable pretreatment outcome values.
+
+我们按照 Athey 和 Imbens (2006)建议的两步法来估计分位数治疗对分布的影响。第一步采用参数化的普通最小二乘法对协变量的影响进行分析。在第二步中，我们将无条件 CIC 估计量应用于残差以估计分位数治疗效果.12通过比较该分位数处理分布的变化与采用相同预处理结果值的可能不同分位数的对照分布的变化来估计每个分位数的效果。因此，每个分位数的治疗效果是根据具有可比较的治疗前结果值的观察结果来估计的。
+
+We display the estimated quantile treatment effects and the bootstrapped standard errors in online Appendix Figure A5. Two important patterns emerge. First, we find that the canal’s abandonment has a significant positive effect on the entire distribution. This finding is consistent with our standard DID estimation results in the baseline. Second, we notice that the effect is mostly decreasing in the quantile level. In particular, the increase in rebellions is significantly larger at the left tail of the conditional distribution, such that most of the changes between the two groups come from counties that were peaceful in the pre-reform period. This pattern lays to rest any concerns that certain areas might be prone to rebellions in both periods, in which case we would have expected larger increases in inherently unstable counties at the right tail of the distribution.
+
+我们在在线附录图 A5中显示了估计的分位数治疗效果和自举标准误差。两个重要的模式出现了。首先，我们发现运河的废弃对整个分布有显著的积极影响。这一发现与我们标准的基线分离差异估计结果是一致的。其次，我们注意到效应在分位数水平上大部分是减少的。特别是，在有条件分配的左边，叛乱增加的幅度要大得多，因此，两个团体之间的大部分变化来自改革前和平时期的各州。这种模式消除了人们对某些地区可能在两个时期都容易发生叛乱的任何担忧，在这种情况下，我们本来预计在分布的右边尾部的固有不稳定县会有更大的增加。
+
+Synthetic Control Method.—The second approach we employ is the SCM proposed in Abadie and Gardeazabal (2003) and Abadie, Diamond, and Hainmueller (2010). Unlike the CIC estimator, which allows the distribution of unobservables to differ across groups in arbitrary ways, the SCM deals with the comparability problem by constructing a synthetic control group that closely matches the treated group. Specifically, it applies a data-driven approach to search for a weighted combination of control units that approximates the evolution of the outcome variable for the treated group before the intervention. The evolution of the outcome variable for the resulting synthetic control group is thus considered a projection of the counter-factual of what would have been observed for the affected unit in the absence of the intervention.
+
+综合控制方法ーー我们采用的第二种方法是在 Abadie and Gardeazabal (2003)和 Abadie，Diamond 和 Hainmueller (2010)中提出的 SCM。与 CIC 估计器不同的是，SCM 通过构造一个与被处理组非常匹配的综合控制组来处理可比性问题。具体来说，它应用数据驱动的方法来寻找加权组合的控制单位，近似于干预前治疗组的结果变量的演变。因此，所得到的合成对照组的结果变量的演变被认为是在没有干预的情况下对受影响单位会观察到什么的反事实的投影。
+
+The SCM was originally developed for comparative case studies with one single treated unit. We follow the procedure suggested by Cavallo et al. (2013) to extend it for our context with multiple treatment units. Specifically, we construct a synthetic match for each canal county using a weighted combination of non-canal counties in the donor pool following the standard SCM approach.[13](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#bookmark21) We repeat this procedure for all canal counties and aggregate the individual estimates to compute the average treatment effect. In doing so, we compare every canal county to a synthetic counterfactual that matches the evolution of its first-period outcome in calculating the average effect. We follow the randomization inference procedure to compute the p-values by comparing the estimated main effect to the distribution of placebo effects. See Cavallo et al. (2013) and Galiani and Quistorff (2017) for the technical details).
+
+供应链管理最初是为一个单一治疗单元的比较案例研究而开发的。我们遵循 Cavallo 等人(2013)建议的程序，将其扩展到多个治疗单元。具体而言，我们使用标准 SCM 方法在供体库中使用非运河县的加权组合来构建每个运河县的合成匹配。我们对所有运河县重复这个程序，并将个体估计汇总以计算平均治疗效果。在这样做的时候，我们将每个运河县与一个合成的反事实进行比较，这个反事实在计算平均效应时与其第一阶段结果的演变相匹配。我们遵循随机推断程序，通过比较估计的主要效应与安慰剂效应的分布来计算 p 值。请参阅 Cavallo 等人(2013)和 Galiani 和 Quistorff (2017)的技术细节。
+
+We plot the estimated results in online Appendix Figure A6. Panel (a) depicts the evolution of rebelliousness for the treated and the synthetic control groups. Panel (b) shows the differences between the two groups (the treatment effects) over time, along with the p-values from the randomization inference. The pattern revealed by the synthetic control is consistent with our previous findings that canal counties started to have more rebellions following the canal’s abandonment in 1826. It is worth noting that we see a surge in rebellions in the synthetic control group approximately 30 years after the 1826 closure. This increase coincides with a politically unstable period for the country in the mid-nineteenth century. It is opposite to what would have been observed if the scenario of canal counties being more susceptible to overall unrest was factual.
+
+我们将估计结果绘制在在线附录图 A6中。图(a)描述了治疗组和合成对照组的叛逆性的演变。图(b)显示了随着时间的推移两组之间的差异(治疗效果) ，以及随机推断的 p 值。综合控制所揭示的模式与我们先前的发现是一致的，即运河县在1826年运河废弃后开始出现更多的叛乱。值得注意的是，在1826年关闭大约30年后，我们看到合成人控制组的叛乱激增。这一增长与该国在十九世纪中叶的政治不稳定时期相吻合。如果运河县更容易发生总体骚乱的情况是事实，那么这种情况与人们观察到的情况正好相反。
+
+Taken together, Both techniques represent generalizations of the standard DID methodology by flexibly allowing for systematic differences between the treated and the control units. The results consistently show that our findings are not subject to the potential concern of comparability between canal counties and non-canal counties. Furthermore, both exercises reveal additional patterns suggesting it unlikely that our results are driven by a common event differentially affecting canal counties previously prone to distortions.
+
+综上所述，这两种技术通过灵活地允许治疗单位和控制单位之间的系统差异，代表了标准的分离差分技术方法的一般化。结果一致表明，我们的研究结果不受潜在的关注可比性之间的运河县和非运河县。此外，这两个演习揭示了额外的模式表明，我们的结果不太可能是由一个共同的事件驱动的差别影响以前易于扭曲的运河县。
+
+- B. Placebo Tests
+
+    安慰剂试验
+
+Another related concern is that our results might reflect the effect of the canal’s historical presence rather than its abandonment. This concern arises because canal counties may differ from non-canal counties in many attributes. While we have controlled for the period-specific impact of a large set of covariates in the baseline, one might still worry about the possibility of other perhaps unknown or unobservable differences associated with the canal’s historical presence. In this section, we attempt to tackle this issue by implementing two placebo designs. The idea is to approximate the hypothetical treatment effects on canal counties had the canal continued to operate.
+
+另一个相关的担忧是，我们的结果可能反映了运河的历史存在的影响，而不是它的废弃。产生这种担忧是因为运河县在许多方面可能与非运河县有所不同。虽然我们已经控制了基线中大量协变量对特定时期的影响，但人们可能仍然担心运河历史存在的其他可能未知或无法观察到的差异的可能性。在本节中，我们试图通过实施两个安慰剂设计来解决这个问题。这个想法是为了在运河继续运行的情况下，接近假设的对运河县的治疗效果。
+
+Our first exercise leverages the historical context that not all portions of the canal were abandoned to the same extent. In particular, the part of the canal north of the Yellow River suffered more severely from the reform as it became silted and almost unnavigable due to the lack of consistent maintenance. In particular, much of the maintenance effort was focused on cleaning the silt and sediments flushed into the canal from the Yellow River. On the other hand, the part of the canal south of the Yellow River continued to function relatively well for two reasons: first, it continued to serve in transporting Jiangsu’s and Zhejiang’s tribute rice to Shanghai, the starting point of sea transportation; second, there was far less maintenance effort required to sustain the navigability of the canal in the south. Therefore, while the historical presence of the canal was held constant across the two sections, the southern part of it suffered minimally from its closure. This fact makes the southern part of the canal a potentially suitable placebo group that could be used to separate the effect of the canal’s abandonment from other confounding factors associated with the historical presence of the canal. If our findings reflect the canal’s historical presence rather than its closure, we would expect a similar response in both portions of the canal. If, on the contrary, it is the abandonment of the canal that really mattered, we would expect a minimal effect in its southern part.
+
+我们的第一个演习利用了历史背景，即并非运河的所有部分都被遗弃到同样的程度。特别是黄河以北的运河，由于缺乏持续的维护，变得淤塞，几乎无法通航，因此受到改革的影响更为严重。特别是，大部分的维护工作集中在清理从黄河冲入运河的淤泥和沉积物。另一方面，黄河以南的运河继续运行得比较好，原因有二: 一是继续为江浙贡米运输服务，上海是海上运输的起点; 二是维持运河南部通航所需的维护工作少得多。因此，虽然运河的历史存在是保持不变的两个部分，它的南部部分受到最小的关闭。这一事实使得运河南部成为一个潜在的合适的安慰剂组，可以用来区分运河废弃的影响和与运河历史存在相关的其他混杂因素。如果我们的发现反映了运河的历史存在，而不是它的关闭，我们可以期待在运河的两个部分类似的反应。相反，如果真正重要的是废弃运河，那么我们可以预期运河南部的影响微乎其微。
+
+To examine the differential effects of canal closure in the north and the south, we introduce a triple interaction term, AlongCanalc x Postt x Northc, where Northc is an indicator that takes the value of one if the county is located to the north of the Yellow River. The dual interaction term, AlongCanalc x Postc, thus captures the effect of canal closure in the south, whereas the triple interaction term estimates the difference in treatment effects between the north and the south. The total treatment effects for canal counties in the north can be calculated by adding up the coefficients for the two terms. We have also included the interaction between the post-reform dummy with an indicator of northern counties, Northc x Postt, which captures the average difference between counties to the north and the south of the Yellow River, so that we are comparing counties along the northern (southern) part of the canal only to other counties in the north (south).
+
+为了研究南北渠道关闭的不同影响，我们引入了一个三重相互作用项 AlongCanalc x Postt x Northc，其中 Northc 是一个指标，如果该县位于黄河以北，则取1的值。双重相互作用项 AlongCanalc x Postc 因此捕获了南部渠道关闭的效果，而三重相互作用项估计了南北之间治疗效果的差异。将两项系数相加，可以计算出北方运河县的总治理效果。我们还加入了改革后的虚拟模型与北岩银行指标 Northc x Postt 之间的相互作用，该指标捕捉了黄河以北和以南各县之间的平均差异，因此我们只比较运河北部(南部)和北部(南部)的其他县。
+
+[Table 5](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#bookmark22)presents the results. A few observations are worth noting. First, we find that the distortion effects of the canal’s abandonment come exclusively from its northern part. For the southern part, the effect is close to zero, and in some specifications is even negative. The differences between the two coefficients are significant at the 1 percent level across all specifications. Second, the estimated coefficient for Northc x Postt is not significantly different from zero in our most comprehensive specifications, suggesting that non-canal counties in the north and those in the south are not statistically different from each other. This result helps to rule out any alternative explanations referring to regional differences between North and South (e.g., climate, geography, etc.). Overall, the findings support the role of the canal’s abandonment over that of its historical presence.
+
+表5显示了结果。一些观察值得注意。首先，我们发现废弃运河的扭曲效应完全来自于它的北部。对于南部地区，影响接近于零，在一些规范中甚至是负面的。两个系数之间的差异在所有规范的1% 水平上都是显著的。其次，在我们最全面的规范中，Northc x Postt 的估计系数与零没有显著差异，这表明北部非运河县和南部非运河县在统计学上没有差异。这一结果有助于排除任何其他解释，涉及区域差异的南北(如气候，地理等)。总的来说，这些发现支持了运河废弃的重要性，而不是它的历史存在。
+
+In the second exercise, we examine more broadly the placebo treatment effects on counties along other rivers and transportation arteries. We consider four placebo designs: the Yangtze River, the Yellow River, the coast, and the courier routes. These groups are chosen in such a way that each of them played a similar role to the canal in terms of facilitating transportation and regional trade. If there are any unobservable characteristics associated with the canal’s historical presence (rather than its abandonment) that explain our findings, we should expect a comparable effect along these alternative routes as they likely possess similar influences on their neighboring regions to the canal’s historical presence.
+
+在第二个实验中，我们更广泛地研究了安慰剂治疗对其他河流和交通动脉沿线各县的影响。我们考虑四个安慰剂设计: 长江，黄河，海岸，和快递路线。选择这些团体的方式使得每个团体在促进运输和区域贸易方面发挥了与运河类似的作用。如果有任何与运河的历史存在(而不是它的废弃)有关的不可观察的特征来解释我们的发现，我们应该期待沿着这些替代路线的类似影响，因为它们可能对邻近地区的运河的历史存在具有类似的影响。
+
+We summarize the placebo treatment effects along these alternative transportation routes in [Table 6.](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#bookmark23) The first four columns examine each placebo treatment group separately, whereas the last column examines a summary measure of belonging to any of the four placebo treatment groups. We do not find that any of these placebo treatments generate a significant increase in rebellions in the post-reform period. Therefore, the possibility of differential reactions due to the historical presence of the canal is a relatively unlikely scenario.
+
+我们总结了安慰剂治疗效果沿着这些替代运输路线在表6。前四列分别检查每个安慰剂治疗组，而最后一列检查属于任何四个安慰剂治疗组的总结措施。我们没有发现任何这些安慰剂治疗在改革后的时期产生了叛乱的显着增加。因此，由于运河的历史存在而产生不同反应的可能性是相对不太可能的。
+
+We view the two placebo exercises in Table 5 and Table 6 as complementary to each other. They collectively depict a comprehensive picture that, among the main
+
+我们认为表5和表6中的两个安慰剂练习是相辅相成的。他们共同描绘了一幅全面的画面
+
+Table 5—Canal Closure and Rebellions: North versus South
+
+表5-关闭运河与叛乱: 北方对南方
+
+ |  | Rebellions<br><br>叛乱 |
+| --- | --- |
+ | (1) | (2) | (3) | (4) |
+ | AlongCanal x Post x North<br><br>沿运河 x 邮局 x 北 | 0.0991 | 0.0998 | 0.0907 | 0.0687 |
+ |  | (0.0274) | (0.0284) | (0.0286) | (0.0279) |
+ |  | [0.0287] | [0.0291] | [0.0284] | [0.0277] |
+ | AlongCanal x Post<br><br>沿着 x 运河邮局 | -0.0144 | -0.0144 | -0.0065 | 0.0020 |
+ |  | (0.0092) | (0.0092) | (0.0105) | (0.0095) |
+ |  | [0.0119] | [0.0119] | [0.0113] | [0.0106] |
+ | North x Post<br><br>北 x 邮政局 | 0.0282 | 0.0281 | 0.0197 | 0.0221 |
+ |  | (0.0083) | (0.0083) | (0.0221) | (0.0245) |
+ |  | [0.0098] | [0.0097] | [0.0246] | [0.0263] |
+ | Constant<br><br>不变 | 0.0256 | 0.0256 | 0.0271 | 0.0268 |
+ |  | (0.0018) | (0.0018) | (0.0044) | (0.0049) |
+ | County FE<br><br>FE 郡 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 |
+ | Year FE<br><br>元旦 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 |
+ | Pre-reform rebellion x year FE<br><br>改革前叛乱 | No<br><br>没有 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 |
+ | Province x year FE<br><br>省 X 年 | No<br><br>没有 | No<br><br>没有 | Yes<br><br>是的 | Yes<br><br>是的 |
+ | Prefecture year trend<br><br>县年趋势 | No<br><br>没有 | No<br><br>没有 | No<br><br>没有 | Yes<br><br>是的 |
+ | Mean of the dependent variable<br><br>因变量的平均值 | 0.0330 | 0.0330 | 0.0330 | 0.0330 |
+ | Number of observations<br><br>观察次数 | 140,432 | 140,432 | 140,432 | 140,432 |
+ | Number of counties<br><br>县数 | 536 | 536 | 536 | 536 |
+ | Adjusted R2<br><br>调整过的 R2 | 0.0263 | 0.0332 | 0.0475 | 0.0499 |
+
+Notes: The sample consists of 536 counties in the six provinces around the canal from 1650 to 1911. The dependent variable is the inverse hyperbolic sine transformation of the number of rebellions normalized by 1600 population. AlongCanal is an indicator that equals one if the county is adjacent to the canal. Post is an indicator that equals one in and after 1826. The northern and southern parts are defined by the canal’s intersection with the old course of the Yellow River. North is an indicator of whether a county is located north to the old course of the Yellow River. Standard errors in parentheses are clustered at the county level. Standard errors in brackets are Conley standard errors robust for spatial correlation, assuming a cutoff window of 500 km and a serial correlation of 262 years.
+
+注: 样本包括1650年至1911年运河周边六省的536个县。因变量是由1600人口归一化的叛乱次数的反双曲正弦变换。阿隆运河是一个指示器，如果该县毗邻运河，则等于1。职位是一个指标，等于一在1826年和之后。运河与黄河老河道的交汇处决定了南北两部分的界限。北是一个县是否位于黄河旧河道以北的指标。括号中的标准错误在县一级进行聚类。括号内的标准误差是对空间相关性具有鲁棒性的 Conley 标准误差，假设截止窗口为500公里，序列相关性为262年。
+
+ | Table 6—Canal Closure and Rebellions: Placebo Treatments<br><br>表6-运河关闭与反叛: 安慰剂治疗 |
+| --- |
+ | Placebo treatment:<br><br>安慰剂治疗: | Rebellions<br><br>叛乱 |
+ | (A)<br><br>(1) | (B)<br><br>(2) | (C)<br><br>(3) | (D)<br><br>(丁)<br><br>(4) | (E)<br><br>(5) |
+ | Along x Post<br><br>沿着 X 邮局 | -0.0496 | 0.0484 | 0.0044 | -0.0045 | 0.0034 |
+ |  | (0.0142) | (0.0308) | (0.0102) | (0.0094) | (0.0092) |
+ |  | [0.0209] | [0.0264] | [0.0118] | [0.0096] | [0.0090] |
+ | Constant<br><br>不变 | 0.0335 | 0.0319 | 0.0328 | 0.0334 | 0.0325 |
+ |  | (0.0002) | (0.0007) | (0.0004) | (0.0009) | (0.0014) |
+ | County FE<br><br>FE 郡 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 |
+ | Year FE<br><br>元旦 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 |
+ | Pre-reform rebellion x year FE<br><br>改革前叛乱 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 |
+ | Province x year FE<br><br>省 X 年 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 |
+ | Prefecture year trend<br><br>县年趋势 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 |
+ | Mean of the dependent variable<br><br>因变量的平均值 | 0.0330 | 0.0330 | 0.0330 | 0.0330 | 0.0330 |
+ | Number of observations<br><br>观察次数 | 140,432 | 140,432 | 140,432 | 140,432 | 140,432 |
+ | Number of counties<br><br>县数 | 536 | 536 | 536 | 536 | 536 |
+ | Adjusted R2<br><br>调整过的 R2 | 0.0496 | 0.0496 | 0.0495 | 0.0495 | 0.0495 |
+
+Note. The sample consists of 536 counties in the six provinces around the canal from 1650 to 1911. The dependent variable is the inverse hyperbolic sine transformation of the number of rebellions normalized by 1600 population. Along is an indicator that equals one if the county is adjacent to the specific transportation arterial specified at the top of each column: (A) Yangtze River, (B) Yellow River, (C) coast, (D) courier routes, and (E) any of the four. Post is an indicator that equals one in and after 1826. Standard errors in parentheses are clustered at the county level. Standard errors in square brackets are Conley standard errors robust for spatial correlation, assuming a cutoff window of 500 km and a serial correlation of 262 years.
+
+注意。样本包括1650年至1911年运河周边六省的536个县。因变量是由1600人口归一化的叛乱次数的反双曲正弦变换。沿线是一个指标，如果该县邻近每列顶部指定的特定交通干线，则等于1: (A)长江，(B)黄河，(C)海岸，(D)快递路线，和(E)四者中的任何一条。职位是一个指标，等于一在1826年和之后。括号中的标准错误在县一级进行聚类。方括号内的标准误差是 Conley 标准误差，假设截止窗口为500公里，序列相关为262年，对空间相关性具有鲁棒性。
+
+transportation networks in the region we study, the distortionary effects only appear to emerge along the northern part of the canal—the portion that was completely abandoned after the reform. The pattern suggests that it was the canal’s abandonment that really mattered.
+
+在我们研究的这个地区的交通网络中，扭曲效应似乎只出现在运河的北部ーー改革后完全废弃的那部分。这种模式表明，真正重要的是运河的废弃。
+
+- C. Major Historical Events
+
+    重大历史事件
+
+The two approaches we have applied provide extensive evidence that our findings unlikely arise from a common event differentially affecting canal counties. Yet, given the reform’s gradual process, one might be curious about how the canal’s abandonment interacted with the many other distortionary events in mid-nineteenth century China. To this end, we directly examine two significant events that occurred during the process of the reform: the First Opium War (1840-1842) and the Taiping Rebellion (1851-1864). We discuss in detail how these events might affect our estimates for the canal’s closure.
+
+我们采用的两种方法提供了广泛的证据表明，我们的发现不太可能来自一个共同的事件差别影响运河县。然而，考虑到改革的渐进过程，人们可能会好奇运河的废弃如何与19世纪中叶中国的许多其他扭曲事件相互作用。为此，我们直接考察了改革过程中发生的两件大事: 第一次鸦片战争(1840-1842)和太平天国起义(1851-1864)。我们详细讨论这些事件可能会如何影响我们对运河关闭的估计。
+
+It is worth first pointing out that both events started beyond our sample area but moved toward it in their later stages. The First Opium War between Britain and China started in Guangdong Province in 1840, and most of its early campaigns took place around the Pearl River Delta in Guangdong and the southeastern coast. It was not until early 1842 that the British Army sought to cripple the finances of the Qing Empire by striking up the Yangtze River. After capturing Ningbo, Shanghai, and Zhenjiang in July, the British fleet cut off the Grand Canal, effectively bringing the war to an end in August 1842. The Taiping Rebellion, on the other hand, overlaps more with our sampled area. It started in Guangxi Province in 1851 and moved along the Yangtze River into Anhui, Jiangsu and Zhejiang Provinces. The Taiping army captured the city of Nanjing in 1853, declaring it the capital of their kingdom, but failed in their effort to head north into Shandong and Zhili over the next two years. The tribute grain system was completely paralyzed during this period as the Taiping Army had taken control of the areas from which the grain was transported.
+
+首先值得指出的是，这两个事件都开始于我们的样本区域之外，但在它们的后期阶段向它移动。中英第一次鸦片战争始于1840年的广东省，其早期战役大多发生在广东珠江三角洲和东南沿海地区。直到1842年初，英国军队才试图通过占领长江来削弱清帝国的财政。在七月份占领宁波、上海和镇江之后，英国舰队切断了大运河，有效地结束了1842年8月的战争。另一方面，太平天国起义与我们的采样区域重叠得更多。广西壮族自治区始于一八五一年，沿长江流经安徽、江苏和浙江。太平军于1853年占领了南京，宣布南京为他们王国的首都，但是在接下来的两年里，他们向北进军山东和直隶的努力失败了。在此期间，由于太平天国军队已经控制了运送粮食的地区，朝贡的粮食系统完全瘫痪。
+
+These two events might have skewed our results in several ways. The immediate concern is that our measure of rebellions might capture simply the campaigns of the British and Taiping armies. This is unlikely for three reasons. First, we have restricted our analysis to rebellions known to have broken out locally and excluded the actions of existing rebel groups (see online Appendix C for details regarding how we distinguish the two types). As a result, the British and Taiping campaigns should not be directly reflected in our accounting of rebellions. Second, although both the British and Taiping armies sought to take control of the area where canal transportation originated (in particular, the cities of Nanjing and Hangzhou), neither advanced their campaigns very far along the canal—especially its northern portions.[14](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#bookmark24) Our results are driven primarily by counties in the north (as shown in Table 5), so the chance that they capture nothing but the British and Taiping campaigns should be
+
+这两个事件可能在几个方面扭曲了我们的结果。当务之急是，我们衡量叛乱的标准，可能仅仅反映了英国和太平军的战役。这不太可能，原因有三。首先，我们将我们的分析局限于已知在当地爆发的叛乱，并排除了现有叛乱组织的行动(关于我们如何区分这两种类型的细节，请参阅在线附录 C)。因此，英国和太平天国运动不应该直接反映在我们对叛乱的描述中。其次，尽管英军和太平军都试图控制运河运输发源地(尤其是南京和杭州) ，但他们的战役都没有沿着运河很远的地方展开，尤其是运河的北部地区。14我们的结果主要是由北方的县(如表5所示)推动的，因此，除了英军和太平军的战役，他们什么也没有占领的可能性应该是存在的
+
+Table 7—Canal Closure and Rebellions: Major Distortions
+
+表7. 关闭运河与叛乱: 主要变形
+
+ |  | Rebellions<br><br>叛乱 |
+| --- | --- |
+ | Panel A<br><br>A 组 | Panel B<br><br>B 组 |
+ | (1) | (2) | (3) | (4) |
+ | Canal X Post<br><br>运河 X 邮局 | 0.0438 | 0.1032 | 0.0437 | 0.1034 |
+ |  | (0.0175) | (0.0382) | (0.0174) | (0.0365) |
+ |  | [0.0171] | [0.0367] | [0.0170] | [0.0356] |
+ | Opium Battlefield X Post<br><br>鸦片战场 X 哨所 |  |  | -0.0230 |  |
+ |  |  |  | (0.0198) |  |
+ |  |  |  | [0.0179] |  |
+ | Canal X Opium Battlefield X Post<br><br>运河 X 鸦片战场 X 邮局 |  |  | -0.0339 |  |
+ |  |  |  | (0.0284) |  |
+ |  |  |  | [0.0256] |  |
+ | Taiping X Post<br><br>太平 X 站 |  |  |  | -0.0018 |
+ |  |  |  |  | (0.0171) |
+ |  |  |  |  | [0.0222] |
+ | Canal X Taiping X Post<br><br>运河 X 太平 X 邮政局 |  |  |  | -0.0928 |
+ |  |  |  |  | (0.0391) |
+ |  |  |  |  | [0.0388] |
+ | Constant<br><br>不变 | 0.0313 | 0.0362 | 0.0312 | 0.0315 |
+ |  | (0.0007) | (0.0009) | (0.0008) | (0.0024) |
+ | County FE<br><br>FE 郡 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 |
+ | Year FE<br><br>元旦 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 |
+ | Pre-reform rebellion X year FE<br><br>改革前叛乱 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 |
+ | Province X year FE<br><br>省 X 年 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 |
+ | Prefecture year trend<br><br>县年趋势 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 | Yes<br><br>是的 |
+ | Mean of the dependent variable<br><br>因变量的平均值 | 0.0077 | 0.0087 | 0.0077 | 0.0077 |
+ | Number of observations<br><br>观察次数 | 138,860 | 79,648 | 140,432 | 140,432 |
+ | Number of counties<br><br>县数 | 530 | 304 | 536 | 536 |
+ | Adjusted R2<br><br>调整过的 R2 | 0.0499 | 0.0689 | 0.0497 | 0.0500 |
+
+Note. Panel A excludes counties that suffered from battles during the Opium War (column 1) or the Taiping Rebellion (column 2). Panel B examines the heterogeneous effects in those regions. The sample consists of 536 counties in the six provinces around the canal from 1650 to 1911. The dependent variable is the inverse hyperbolic sine transformation of the number of rebellions normalized by 1600 population. Canal is an indicator that equals one if the county is adjacent to the canal. OpiumBattlefield is an indicator that equals one if the county was one of the battlefields during the First Opium War. Taiping is an indicator that equals one if the county was one of the battlefields during the Taiping Rebellion. Post is an indicator that equals one in and after 1826. Standard errors in parentheses are clustered at the county level. Standard errors in brackets are Conley standard errors robust for spatial correlation, assuming a cutoff window of 500 km and a serial correlation of 262 years.
+
+注意。甲组不包括在鸦片战争期间(第一栏)或太平天国起义(第二栏)受战争影响的国家。小组 B 审查了这些地区的异质效应。样本包括1650年至1911年运河周边六省的536个县。因变量是由1600人口归一化的叛乱次数的反双曲正弦变换。运河是一个指示器，如果县与运河相邻，则等于1。鸦片战场是第一次鸦片战争时期的战场指标，如果该县是其中一个战场，则该指标等于1。如果太平天国是太平天国起义的战场之一，那么太平天国就等于太平天国。职位是一个指标，等于一在1826年和之后。括号中的标准错误在县一级进行聚类。括号内的标准误差是对空间相关性具有鲁棒性的 Conley 标准误差，假设截止窗口为500公里，序列相关性为262年。
+
+relatively small. Third, as indicated by the results we present in online Appendix Table A2, panel A, our estimates are robust to restricting our sample to the 50 year window (1801-1850) before the Taiping Rebellion started.
+
+相对较小。第三，正如我们在线附录表 a 2中的结果所显示的，我们的估计是稳健的，可以将我们的样本限制在50年的窗口期(1801-1850) ，然后才开始太平天国起义。
+
+A second concern is that the reported number of rebellions might be less accurate in regions affected by the Opium War or the Taiping Rebellion. The government might have limited information on social disorder in those occupied regions, raising the noise level in the numbers being reported. To address the concern that our results might have been biased by inaccurate information from those regions, we rerun our analyses while excluding counties directly affected by these events. The results are reported in panel A,[Table 7](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#bookmark25). For columns 1, we exclude counties where battles between the British Army and the Qing government took place (i.e., the Battles of Zhapu, Zhenhai, Zhenjiang, Ningbo, Cixi, and Wusong). It is not surprising that our results are almost unchanged, given that the Opium War affected only a small subset of our sample counties. The Taiping Rebellion was more influential, as nearly half of the counties in our sample were directly affected by that conflict. In column 2, however, the results we report include estimated coefficients that are even larger when we exclude the Taiping-affected regions (defined as places occupied by the Taiping group or those in which the battles took place). Consequently, our results are not subject to inaccurate information collected in the occupied regions.
+
+第二个担忧是，在受鸦片战争或太平天国起义影响的地区，所报道的叛乱数字可能不那么准确。政府可能对那些被占领地区的社会动乱信息有限，从而提高了所报道数字的噪音水平。为了解决来自这些地区的不准确信息可能使我们的结果有偏差的问题，我们重新运行我们的分析，同时排除直接受这些事件影响的县。结果见图 A 表7。对于第一栏，我们排除了英国军队和清政府之间发生战斗的县(即 Zhapu、镇海、镇江、宁波、慈溪和吴淞之战)。考虑到鸦片战争只影响了我们抽样调查的一小部分国家，我们的结果几乎没有变化也就不足为奇了。太平天国起义更有影响力，因为我们样本中近一半的县直接受到了冲突的影响。然而，在第二栏中，我们报告的结果包括了当我们排除太平天国影响地区(定义为太平军占领的地方或者战争发生的地方)时估计的系数，这些估计系数甚至更大。因此，我们的结果不会受到在被占领地区收集的不准确信息的影响。
+
+A third possibility is that the campaigns of the British and Taiping campaigns could have interacted with the reform to influence local rebel uprisings. Two possible channels are worth noting: (i) the British and Taiping campaigns could have encouraged the local population to also rebel against the government; (ii) these campaigns could have recruited new rebels into their ranks and thus substituted out demand for local rebellion. To further explore whether it was the complementary effect or the substitution effect that played a major role, we tested triple interactions between the canal’s abandonment and the occupied regions during the two events and report the results in panel B, Table 7. The result reported in columns 3 indicates that the Opium War produced little interaction with our estimates, which is consistent with our previous analysis. For the Taiping Rebellion (columns 4), we observe significant negative effects for regions that were directly affected. Our interpretation is that, instead of rebelling on their own, some people who were inclined towards rebellion might have joined the Taiping group once the campaign reached their area, which is consistent with arguments typically found in histories of China (e.g., Martin 1996). On top of everything, we do not find evidence that canal counties reacted more violently to these national distortions.
+
+第三种可能性是，英国和太平天国运动的运动可能与改革相互作用，以影响当地的反叛起义。有两种可能的途径值得注意: (i)英国和太平天国运动可能会鼓励当地人民也反抗政府; (ii)这些运动可能会招募新的反叛者加入他们的队伍，从而取代了对当地反叛的需求。为了进一步探索起主要作用的是互补效应还是替代效应，我们测试了两次事件期间运河废弃和被占领区域之间的三重相互作用，并在图 B 表7中报告了结果。第3栏报告的结果表明，鸦片战争与我们的估计几乎没有什么交互作用，这与我们以前的分析是一致的。对于太平天国起义(第4栏) ，我们观察到对于直接受影响的区域有显著的负面影响。我们的解释是，一些倾向于反抗的人可能在太平天国运动到达他们的地区后加入了太平天国组织，而不是自己反抗，这与中国历史上常见的论点是一致的(例如，马丁1996)。最重要的是，我们没有找到证据表明运河县对这些国家扭曲的反应更为激烈。
+
+Remark: In this section, we delve into the central concern of differential reactions to common events (during a rather unstable historical period). The concern arises from the fact that unmodeled national events may have occurred during the reform’s gradual process and that canal and non-canal counties seem to differ in some aspects. We apply three independent approaches to address this inherently challenging problem. First, we show that our findings survive the alternative estimation techniques that allow for systematic differences between the treated and the control groups. Second, we explore the placebo treatment effects along other transportation routes that might have similar influences as the canal’s historical presence but did not suffer from its abandonment. We find no effects in these placebo treatments. Finally, we directly examine two main events that distorted the country in the mid-nineteenth century and do not find that canal counties reacted more violently to either of them. Taken together, these findings give us sufficient confidence to interpret the increased rebellions in canal counties as a causal effect of the loss of the canal.
+
+备注: 在本节中，我们将深入探讨对常见事件(在一个相当不稳定的历史时期)的不同反应这一核心问题。这种担忧源于这样一个事实: 在改革的渐进过程中，可能发生了未经改造的全国性事件，而运河县和非运河县在某些方面似乎有所不同。我们应用三种独立的方法来解决这个具有内在挑战性的问题。首先，我们证明我们的研究结果存活的替代估计技术，允许在治疗组和对照组之间的系统差异。其次，我们探讨了安慰剂治疗效果沿着其他运输路线，可能有类似的影响作为运河的历史存在，但没有遭受其放弃。我们发现这些安慰剂治疗没有效果。最后，我们直接研究了19世纪中叶扭曲这个国家的两个主要事件，并没有发现运河县对这两个事件的反应更为激烈。综上所述，这些发现给了我们足够的信心来解释运河县叛乱的增加是运河损失的因果效应。
+
+- V. Discussion of Mechanisms
+
+    五、机制讨论
+
+The previous sections provide plausibly causal evidence that associates the abandonment of the Grand Canal with subsequent rebellions in counties close to the canal. This section discusses the potential mechanisms through which the canal closure impeded political stability. We consider two alternative explanations of our findings: reduction in state repressive capacity and loss of access to trade. We use a variety of approaches to evaluate these two mechanisms and find the evidence most consistent with the loss of trade interpretation. We further delve into the specific aspect of income shocks induced by the loss of trade and discuss its long-term implications.14
+
+前面的章节提供了似是而非的因果关系证据，将放弃大运河与运河附近各县随后发生的叛乱联系在一起。这一部分讨论了运河关闭阻碍政治稳定的潜在机制。我们对我们的研究结果考虑了两种可供选择的解释: 国家压制能力的减弱和贸易准入的丧失。我们使用各种方法来评估这两种机制，并找到最符合贸易解释损失的证据。我们进一步探讨贸易损失引起的收入冲击的具体方面，并讨论其长期影响
+
+- A. State Repressive Capacity
+
+    国家压制能力
+
+One possible channel through which the canal’s abandonment could have led to more rebellions is the weakening of the government’s repressive capacity (or effort) as the canal loses its significance. This change could encourage more rebellions as the chances of success increase. The ideal approach to evaluating this mechanism would be to examine directly whether the repressive capacity decreases along the canal following its closure. We are, however, unable to directly observe any measures of repressive capacity at the county level that vary across time. Therefore, we employ two relatively indirect approaches to disentangle the potential role of the state’s repressive capacity.
+
+废弃运河可能导致更多反抗的一个可能途径是，随着运河失去其重要性，政府的镇压能力(或努力)正在减弱。随着成功的机会增加，这种变化可能会鼓励更多的反抗。评估这种机制的理想方法是直接检查在运河关闭后，沿运河的抑制能力是否下降。然而，我们无法直接观察到任何镇压能力的措施，在县一级，随着时间的推移而变化。因此，我们采用了两种相对间接的方法来厘清国家压制能力的潜在作用。
+
+The first approach explores additional variations in the importance of political control before the canal’s closure. If the canal’s closure weakens the government’s repressive capacity along the canal, we would expect the effect to be more substantial in counties that require more intensive controls. We employ two measures of such political importance. The first measure (denoted as Soldiers) considers the size of the preassigned military establishment in the 1750s (Luo 1984)—a direct proxy for the repressive capacity as well as the government’s perception of the county’s military significance. The second measure (denoted as PrefectureCapital) is whether a county served as the prefecture-level administrative center—i.e., the administration that operated at a higher level on the political hierarchy. We interact our treatment intensity variable, measured by the length of canal per 100 km2, with each of these measures to investigate whether the effects are particularly intensified in counties that were deemed important to the government regarding its repressive force during the canal-transportation era.
+
+第一种方法探索了运河关闭前政治控制重要性的额外变化。如果运河的关闭削弱了政府对运河沿岸的镇压能力，我们预计，对于需要更严格控制的县，这种影响将更为显著。我们采用两种具有如此政治重要性的措施。第一项措施(称为“士兵”)考虑的是18世纪50年代(罗1984)预先指定的军事设施的规模——这是镇压能力的直接代表，也是政府对该县军事重要性的看法。第二个衡量标准是县是否作为地级行政中心ーー也就是说，在政治等级上运作的较高级别的行政机构。我们将我们的治疗强度变量(以每100平方公里运河的长度衡量)与这些措施中的每一项相互作用，以调查在运河运输时代对政府的镇压力量被认为是重要的县，其影响是否特别强化。
+
+The results are reported in the first two columns of online Appendix Table A4. The importance of political control, measured either way, does not exhibit a higher rate of rebellion in the post-reform period. Furthermore, we find no evidence that the reform produces more rebellions in regions that were previously more politically important to the government (suggested by the triple interaction terms). These estimates suggests that repressive capacity may play a limited, if any, role in boosting the subsequent rebellions.
+
+结果在在线附录表 A4的前两栏中报告。政治控制的重要性，无论以哪种方式衡量，在改革后的时期都没有表现出更高的叛乱率。此外，我们没有发现任何证据表明，改革会在以前对政府更具政治重要性的地区引发更多的叛乱(三重互动条款提出了这一点)。这些估计表明，镇压能力可能在推动随后的叛乱方面发挥有限(如果有的话)的作用。
+
+Our second approach is to examine two placebo outcomes that measure the military actions of existing rebel groups. Specifically, we extract records in Qing Shilu that document events in which an existing rebel group attacked or retreated (often after being defeated by the government) into a county. These military decisions should be responsive to changes in state capacity. If the canal’s closure reduced the state’s repressive capacity along the canal, we would expect the rebels
+
+我们的第二个方法是检查两个安慰剂结果，衡量现有反叛组织的军事行动。具体来说，我们在《清史录》中提取了一些记录，记录了一个现存的叛乱集团进攻或撤退(通常是在被政府打败之后)到一个县的事件。这些军事决策应该对国家能力的变化作出反应。如果运河的关闭降低了州政府对运河沿岸的镇压力度，我们就会预料到叛军的到来
+
+- 14 For the analyses in this section, We measure the canal’s impact by the length of canal (per 100 km2), which provides more variations in treatment intensity.
+
+    对于这一部分的分析，我们通过管道的长度(每100平方公里)来测量管道的冲击，这提供了更多的治疗强度的变化。
+
+to increasingly view canal regions as easier targets or safer retreats and attack or flee into these places more often.
+
+越来越多地将运河地区视为更容易攻击的目标或更安全的撤退地区，并更频繁地攻击或逃往这些地区。
+
+We summarize the results in the next two columns of online Appendix Table A4. Column 3 examines the effects of the canal’s closure (using the intensity measure) on the frequency at which a county was attacked by existing rebel groups. Contrary to the declined state capacity interpretation, we do not find an increase in a canal county’s being attacked. Rather, the effect is negative and significant at the 5 percent level. This negative effect might reflect a decreased reward for occupying a canal county after the reform. Column 4 examines whether the rebels tended to retreat or flee into a canal county, for which decision military security was the top concern. We find no evidence that canal counties became safer retreats for the rebels. Taken together, the evidence does not support the potential drop in state repressive capacity along the canal as a major channel that explains the increased rebellions after the reform.
+
+我们将结果总结在在线附录表 A4的下两栏中。第三栏考察了运河的关闭(使用强度测量)对一个县受到现有叛乱集团袭击的频率的影响。与国家能力下降的解释相反，我们没有发现运河县受到攻击的增加。相反，在5% 的水平上，这种影响是消极和显著的。这种负面影响可能反映了改革后占领运河县的报酬下降。第4栏审查了叛乱分子是倾向于撤退还是逃往运河县，军事安全决定是该县首要关注的问题。我们没有发现任何证据表明运河县成为叛军更安全的避难所。综上所述，证据并不支持运河沿岸国家压制能力的潜在下降，因为运河是解释改革后叛乱增加的主要渠道。
+
+- B. Trade Access
+
+    B. 贸易准入
+
+Our preferred interpretation of the association between the loss of the canal and subsequent rebellions is that the reform deprived regions with direct access to this established trade route of that access. In previous analyses, we have seen several pieces of evidence consistent with this interpretation: (i) the effects are proportional to the share of market towns distributed directly next to the canal; (ii) the effects are not constrained by county borders and may spill over, possibly as a result of decreased market access, to a range of 150 km away; (iii) most of the effects come from the northern part of the canal for which the access to trade was completely disrupted following the reform, whereas the southern part of it for which the access to trade was less disrupted did not appear to become more rebellious; (iv) we do not observe similar effects along other major trade routes in the region under study that did not experience a closure.
+
+我们对运河的丧失与随后的叛乱之间联系的首选解释是，改革剥夺了直接进入这条既定贸易路线的地区。在以前的分析中，我们已经看到了几个与这种解释相一致的证据: (i)影响与直接分布在运河旁边的集镇的份额成正比; (ii)影响不受县界的限制，可能由于市场准入的减少，可能会溢出到150公里以外的范围; (iii)大部分影响来自运河北部，在改革之后，贸易准入完全中断，而南部的贸易准入较少中断，似乎没有变得更加反叛; (iv)我们没有观察到类似的影响，沿着该地区的其他主要贸易路线进行研究，没有经历关闭。
+
+Here we lay out three additional pieces of evidence in support of this loss of trade access interpretation. The first exercise directly examine the development of market towns for canal counties and non-canal counties. Specifically, we consider the number of market towns in each county observed for 1820 and 1911 and regress this figure on the canal’s intensity (length per 100 km2 ). The estimated coefficient is reported in the first column of online Appendix Table A5. The result suggests that the canal’s closure significantly hampered the development of market towns along the canal over the nineteenth century, which directly indicates the reform’s disruptive effect on regional trade.
+
+在这里，我们列出了另外三项证据来支持这种贸易准入解释的丧失。第一次演练直接考察了运河县和非运河县集镇的发展情况。具体来说，我们考虑了1820年和1911年观察到的每个县的集镇数量，并将这个数字与运河的密度(每100平方公里的长度)进行了回归。估计系数见在线附录表 A5第一栏。结果表明，运河的关闭严重阻碍了19世纪运河沿岸集镇的发展，这直接表明了改革对区域贸易的破坏性影响。
+
+We next evaluate whether access to alternative trade routes could help to mitigate the destabilizing effects from of the canal’s closure. In particular, we consider an alternative north-south land transportation route in North China that runs along courier roads. Specifically, we interact the canal’s intensity with a county’s access to this alternative route of transportation. The results are presented in column 2 of online Appendix Table A5. In this specification, the baseline interaction, Canal x Post estimates the incremental number of rebellions in canal counties with no access to the alternative courier roads, in which we find a positive and significant effect similar to our earlier results. The triple interaction term, Canal x Post x Courier, represents the relative change in the treatment effects in counties with access to the alternative route. We find a mitigating effect in the number of rebellions that is significant at the 5 percent level if a canal county also has access to the alternative route. We interpret this result as supportive evidence for the channel of disrupted trade-route access.
+
+接下来，我们将评估是否可以利用其他贸易路线来减轻运河关闭带来的不稳定影响。特别是，我们考虑了一个替代的南北陆路运输路线在华北沿运输公路。具体来说，我们将运河的强度与一个县通往这种替代交通路线的途径相互作用。结果载于在线附录表 A5第2栏。在这个规范中，基线交互作用，Canal x Post 估计了运河县中没有可替代的信使道路的叛乱的增量数量，在这里我们发现一个积极的和显著的效果类似于我们早期的结果。三重相互作用项，Canal x Post x Courier，代表了可以使用替代路线的县治疗效果的相对变化。我们发现，如果一个运河县也可以使用替代路线，那么在5% 的水平上，叛乱的数量会有明显的缓解效果。我们将这一结果解释为贸易路线获取渠道中断的支持性证据。
+
+Finally, we examine the canal’s role in mitigating the risks of conflict from climate shocks, a role that trade usually plays (Burgess and Donaldson 2010). Specifically, we interact the canal’s intensity with a dummy variable indicating the years with temperature anomaly. The result is reported in the third column of online Appendix Table A5. The interaction term, Canal x TemperatureAnomaly, represents the differential effects of a climate shock on social conflict for canal counties and non-canal counties when the canal was functioning well. We find a mitigation effect of the canal on weather-induced social conflict, a finding consistent with the role that trade often plays according to Burgess and Donaldson (2010). The coefficient on the triple interaction, Canal x TemperatureAnomaly x Post, suggests, however, that the mitigation effect no longer existed after the canal’s closure. This piece of evidence, though mostly indirect, is suggestive that the canal’s closure might have contributed to subsequent rebellions by disrupting trade access that the canal once facilitated.
+
+最后，我们考察了运河在缓解气候冲击带来的冲突风险方面的作用，贸易通常扮演这一角色(Burgess and Donaldson 2010)。具体来说，我们将运河的强度与一个虚拟变量相互作用，这个虚拟变量指示了温度异常的年份。结果在在线附录表 A5的第三栏中报告。相互作用项，运河 x 温度异常，代表了运河运行良好时，气候冲击对运河县和非运河县社会冲突的不同影响。我们发现运河对天气引起的社会冲突有缓解作用，这一发现与伯吉斯和唐纳森(2010)所说的贸易经常扮演的角色相一致。然而，三重相互作用的系数，渠道 x 温度异常 x 柱，表明缓解效应在渠道关闭后不再存在。这一证据虽然大多是间接的，但暗示了运河的关闭可能通过破坏运河曾经促进的贸易通道而导致了后来的叛乱。
+
+To sum up, we conclude that the pattern we observe in the data is most consistent with a story according to which the canal’s closure disrupts neighboring markets’ access to this long-established trade route, leading to more rebellions in the following decades. While none of these pieces of evidence is sufficiently conclusive on its own, collectively they present a pattern suggestive of the loss of trade access as a channel through which the canal’s closure destabilizes society.
+
+总而言之，我们的结论是，我们在数据中观察到的模式最符合一个故事，根据这个故事，运河的关闭破坏了邻近市场进入这条长期建立的贸易路线，导致在接下来的几十年里更多的叛乱。虽然这些证据本身没有足够的结论性，但总体而言，它们提出了一种模式，表明运河的关闭破坏了社会稳定，从而丧失了贸易准入的渠道。
+
+- C. Further Discussion
+
+    C. 进一步讨论
+
+In previous sections, we have provided substantial evidence that disrupted trade access might serve as the main channel through which the canal’s closure triggered rebellions. In this section, we attempt to go one step further to investigate the types of income shocks induced by the loss of trade. We consider two possible channels. First, the loss of trade access might increase transaction cost of agricultural products, leading to the welfare loss of consumers and (or) producers. Second, the canal’s closure might hit urban workers employed in trade-related jobs (sailors, dockworkers, traders, etc.).
+
+在前面的章节中，我们已经提供了大量的证据，证明贸易通道的中断可能成为运河关闭引发叛乱的主要渠道。在这一部分，我们试图进一步研究由贸易损失引起的收入冲击的类型。我们考虑两种可能的渠道。首先，贸易准入的丧失可能增加农产品的交易成本，导致消费者和(或)生产者的福利损失。其次，运河的关闭可能会打击从事贸易相关工作的城市工人(水手、码头工人、商人等)。
+
+We examine the first channel through two lenses. First, we examine changes in grain prices in response to the canal closure. If the closure increased the transaction cost of agricultural products, we would expect an increase in grain prices.[15](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#bookmark26) For the first column of online Appendix Table A6 we regress grain price on the abandonment of the canal. The coefficient is positive, but is nonsignificant at conventional levels. This finding suggests that the transaction of agricultural goods does not seem to be the main channel.
+
+我们通过两个透镜检查第一个通道。首先，我们研究运河关闭后粮食价格的变化。如果关闭运河增加了农产品的交易成本，我们预计粮食价格将会上涨。15在线附录表 A6的第一栏中，我们将运河废弃时的粮食价格进行了回归。该系数为正值，但在常规水平上不显著。这一发现表明，农产品交易似乎不是主要渠道。
+
+The second approach is to investigate whether the impact of the canal’s closure varies across regions where suitability to crop plantations varies. If the transaction of agricultural products plays a major role in stimulating rebellions, we should expect the effects to be stronger in areas that are more suitable for agriculture. Therefore, we multiply our baseline interaction with the suitability index for wheat and wetland rice, the two main crops in our sample area (Talhelm et al. 2014). The results are reported in the next two columns of online Appendix Table A6. While the main effects of the closure remain significant, we find no heterogeneous effects across levels of crop suitability. Therefore, the potential channel of agricultural production and transaction is not supported by the data.
+
+第二种方法是调查运河关闭的影响是否因适合种植作物的地区不同而不同。如果农产品交易在煽动叛乱方面发挥了主要作用，那么我们应该预期，在更适合农业的地区，这种影响将更为强烈。因此，我们将我们的基线相互作用与我们样本区域的两种主要作物小麦和湿地水稻的适宜性指数相乘(Talhelm et al. 2014)。结果将在在线附录表 A6的下两栏中报告。虽然关闭的主要影响仍然显着，我们没有发现不同作物适宜性水平的异质性影响。因此，数据不支持农业生产和交易的潜在渠道。
+
+We then turn to examining the second channel that the closure increased rebellions by unemployed workers in urban settings. It is difficult to disentangle the income loss of urban workers from other aspects of trade because these factors often move together in most regions. Our approach is to find an area in which the extent of income loss was minimal despite the loss of trade access due to the canal closure. We consider the areas around the intersection of the Grand Canal and the Yangtze River as an ideal subsample for this purpose. The reasons are twofold. First, sailors and dockworkers require specific types of human capital, and the switching cost might be high if they wanted to find other jobs once canal trade declined. Second, the Yangtze River should not gain additional trade after the canal closure, because the river runs in a different direction from the canal and serves different regions. Areas close to the intersection between the two waterways thus constitute an subsample in which the loss of canal introduced a large trade shock with a minimal impact on the income of dockworkers. Online Appendix Figure A7 plots the estimated coefficients using subsamples 100, 200, 300, and 400 km away from the Yangtze River. We find that the point estimates increase with the distance to the Yangtze River (despite the wide confidence intervals that prevent us from making any conclusive inference). We consider this result as suggestive evidence that urban unemployed workers might be the major group who suffered and rebelled.
+
+然后我们转向研究第二个渠道，即关闭加剧了城市环境中失业工人的叛乱。很难将城市工人的收入损失与贸易的其他方面区分开来，因为在大多数地区，这些因素往往同时发生变化。我们的方法是找到一个收入损失程度最小的地区，尽管由于运河关闭而丧失了贸易通道。我们认为大运河和长江交汇处的地区是这方面的一个理想的子样本。原因有两方面。首先，水手和码头工人需要特定类型的人力资本，一旦运河贸易下滑，如果他们想找到其他工作，转换成本可能会很高。其次，在运河关闭后，长江不应获得额外的贸易，因为长江与运河方向不同，服务于不同的地区。因此，靠近两条水道交汇处的地区构成了一个子样本，在这个子样本中，运河的损失引起了巨大的贸易冲击，对码头工人的收入影响最小。在线附录图 A7使用子样本绘制了距离长江100、200、300和400公里的估计系数。我们发现点估计随着距离长江的距离而增加(尽管宽的置信区间使我们无法做出任何结论性的推断)。我们认为这一结果提示城市失业工人可能是遭受苦难和反抗的主要群体。
+
+While our approach is tentative and experimental, the findings are consistent with historical narratives that sailors’ and dockworkers’ associations around the canal developed into gangsters and secret societies as the canal economy declines.[16](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#bookmark27) These organizations were often tightly organized and eventually became hotbeds for recurring and persistent turmoil over a long period. Historians have described the potential association between the canal’s closure and the emergence of organized gangs and violent events over several decades (e.g., Martin 1996; Liu 2007). This historical narrative is also consistent with other studies (quantitative or qualitative) on urban trade shocks and organized crimes in distinct settings, including Dell, Feigenberg, and Teshima (2019) for Mexico; Haller (1971) for Chicago; and Critchley (2008) for New York City.
+
+虽然我们的研究方法是试验性的，研究结果与历史叙述相一致，即随着运河经济的衰退，运河周围的水手和码头工人协会发展成黑帮和秘密社团。16这些组织往往组织严密，最终成为长期反复持续动荡的温床。历史学家已经描述了几十年来运河的关闭和有组织的帮派和暴力事件之间的潜在联系(例如，Martin 1996; Liu 2007)。这种历史叙述也与其他关于城市贸易冲击和不同背景下的有组织犯罪的研究(定量或定性)一致，包括墨西哥的戴尔、 Feigenberg 和特希马(2019年)、芝加哥的哈勒(1971年)和纽约市的克里奇利(2008年)。
+
+We further explore this idea using a cross-sectional exercise. Specifically, we exploit variations in the emergence of the Green Gang, one of China’s largest and most powerful organized crime groups in the early twentieth century. We obtain a list of high-ranking Green Gang members and correlate their distribution with the location of the canal. The results, presented in online Appendix Table A7, demonstrate a
+
+我们使用一个横截面练习来进一步探索这个想法。具体来说，我们利用了青帮出现的各种变化，青帮是20世纪初中国最大、最强大的有组织犯罪集团之一。我们得到了一份青帮高层成员的名单并把他们的分布和运河的位置联系起来。结果载于网上附录表 A7
+
+high concentration of these early gang members around the canal. The result, while not necessarily causal, suggests a pattern that the pre-reform labor organizations in urban regions could have been transformed into gangs or secret societies that perpetrated organized violence when the canal was abandoned, and thereby produce a persistent effect into the twentieth century.
+
+这些早期帮派成员高度集中在运河周围。这个结果虽然不一定是因果关系，但是它表明了一种模式，即城市地区改革前的劳工组织可能已经变成了帮派或秘密社团，在运河被废弃时实施了有组织的暴力，从而在20世纪产生了持久的影响。
+
+- VI. Conclusion
+
+    六、结论
+
+In this paper we examine the link between the closure of China’s Grand Canal and the subsequent social turmoil in nineteenth century North China. Using an original dataset covering 575 counties over 262 years, we present plausibly causal evidence that canal counties experience more frequent rebellions than their non-canal counterparts after the canal’s closure. Furthermore, we find that these effects are driven primarily by counties that were geographically and economically more dependent on the canal’s well-functioning. Our work emphasizes the importance of continued access to trade routes in promoting peace, a classic notion that has rarely been subject to direct statistical examination in a causal context. While we focus on a historical context that allows for a plausible causal interpretation, the implication of the study is likely pertinent to contemporary policymaking, especially in an era of significant backlash against global trade integration. We also shed fresh light on the chronic social disorder in nineteenth-century North China—a pivotal episode in Chinese history that features a series of notable events marked by turmoil, including the Nian Rebellion, the Boxer Rebellion, and the Green Gang. Our work highlights the loss of socioeconomic opportunities as a leading force in promoting the persistent and recurring insurrections that plagued the end of Imperial China.
+
+本文考察了中国大运河的关闭与19世纪中国北方社会动荡之间的联系。我们使用了一个覆盖575个县长达262年的原始数据集，提供了似乎合理的因果证据，表明运河关闭后，运河县比非运河县经历了更频繁的叛乱。此外，我们发现，这些影响主要是由那些在地理和经济上更依赖运河良好运行的县驱动的。我们的工作强调了继续利用贸易路线促进和平的重要性，这是一个很少在因果关系方面受到直接统计检查的经典概念。虽然我们侧重于一个历史背景，允许一个似乎合理的因果解释，研究的含义可能与当代政策制定有关，特别是在一个对全球贸易一体化的强烈反对的时代。我们还对19世纪中国北方的长期社会动乱提供了新的视角，这是中国历史上的一个关键时期，其中包括一系列以动乱为特征的著名事件，如年变、义和团和青帮。我们的工作突出表明，社会经济机会的丧失是推动持续和反复发生的起义的主要力量，这些起义困扰着中华帝国的终结。
+
+REFERENCES
+
+参考文献
+
+Abadie, Alberto. 2021. “Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects.” Journal of Economic Literature 59 (2): 391-425.
+
+使用综合控制: 可行性、数据要求和方法论方面〉 ，《经济文献杂志》59(2) : 391-425。
+
+Abadie, Alberto, Alexis Diamond, and Jens Hainmueller. 2010. “Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California’s Tobacco Control Program.” Journal of the American Statistical Association 105 (490): 493-505.
+
+Abadie Alberto Alexis Diamond 和 Jens Hainmueller。二零一零年。用于比较案例研究的综合控制方法: 评估加州烟草控制计划的效果美国统计协会杂志105(490) : 493-505。
+
+Abadie, Alberto, and Javier Gardeazabal. 2003. “The Economic Costs of Conflict: A Case Study of the Basque Country.” American Economic Review 93 (1): 113-32.
+
+Abadie Alberto 和 Javier Gardeazabal。二零零三年。冲突的经济代价: 巴斯克地区的个案研究美国经济评论93(1) : 113-32。
+
+Amodio, Francesco, Leonardo Baccini, and Michele Di Maio. 2021. “Security, Trade, and Political Violence.” Journal of the European Economic Association 19 (1): 1-37.
+
+阿莫迪奥，弗朗西斯科，莱昂纳多 · 巴奇尼和米歇尔 · 迪马约。二零二一年。“安全，贸易和政治暴力”欧洲经济协会杂志19(1) : 1-37。
+
+Athey, Susan, and Guido W. Imbens. 2006. “Identification and Inference in Nonlinear Difference-in-Differences Models.” Econometrica 74 (2): 431-97.
+
+非线性差异模型中的识别与推断〉 ，《计量经济学》74(2) : 431-97。
+
+Bai, Ying, and James Kai-sing Kung. 2011. “Climate Shocks and Sino-Nomadic Conflict.” Review of Economics and Statistics 93 (3): 970-81.
+
+白，英，孔启星.2011，“气候冲击与中国游牧冲突”，《经济学与统计学评论》93(3) : 970-81。
+
+Bai, Ying, and Ruixue Jia. 2016. “Elite Recruitment and Political Stability: The Impact of the Abolition of China’s Civil Service Exam.” Econometrica 84 (2): 677-733.
+
+白，英，瑞雪佳。二零一六年。《精英招聘与政治稳定: 中国取消公务员考试的影响》计量经济学84(2) : 677-733。
+
+Banerjee, Abhijit, Esther Duflo, and Nancy Qian. 2020. “On the Road: Access to Transportation Infrastructure and Economic Growth in China.” Journal of Development Economics 145: 102442.
+
+班纳吉，阿比吉，艾斯特 · 迪弗洛，还有南希 · 钱。二零二零年。《在路上: 中国交通基础设施的使用和经济增长》发展经济学杂志145:102442。
+
+Bazzi, Samuel, and Christopher Blattman. 2014. “Economic Shocks and Conflict: Evidence from Commodity Prices.” American Economic Journal: Macroeconomics 6 (4): 1-38.
+
+Bazzi Samuel 还有 Christopher Blattman。二零一四年。经济冲击与冲突: 来自大宗商品价格的证据美国经济学杂志: 宏观经济学6(4) : 1-38。
+
+Becker, Gary S. 1968. “Crime and Punishment: An Economic Approach.” Journal of Political Economy 76 (2): 169-217.
+
+罪与罚: 经济学方法〉 ，《政治经济学杂志》76(2) : 169-217。
+
+Berman, Lex. 2017. “CHGIS V4 Shapeles (2007).’’ https://doi.org/10.7910/DVN/PDGOZ0, Harvard Dataverse, V4.
+
+《 CHGIS v4形状》(2007) ，《哈佛数据宇宙》 https://doi.org/10.7910/dvn/pdgoz0，V4。
+
+Berman, Nicolas, and Mathieu Couttenier. 2015. “External Shocks, Internal Shots: The Geography of Civil Conflicts.” Review of Economics and Statistics 97 (4): 758-76.
+
+伯曼，尼古拉斯和马修 · 库特尼耶。二零一五年。“外部冲击，内部冲击: 国内冲突的地理分布”经济学与统计学评论97(4) : 758-76。
+
+Blattman, Christopher, and Edward Miguel. 2010. “Civil War.” Journal of Economic Literature 48 (1): 3-57.
+
+布拉特曼、克里斯托弗和爱德华 · 米格尔.2010，〈内战〉 ，《经济文学杂志》48(1) : 3-57。
+
+Burgess, Robin, and Dave Donaldson. 2010. “Can Openness Mitigate the Effects of Weather Shocks? Evidence from India’s Famine Era.” American Economic Review 100 (2): 449-53.
+
+Burgess Robin 还有 Dave Donaldson。二零一零年。“开放能减轻气候冲击的影响吗？印度饥荒时期的证据。”美国经济评论100(2) : 449-53。
+
+Cao, Shuji. 2001. The Population History of China, Vol. 5. Shanghai: Fudan University Press.
+
+曹: 《中国人口史》 ，2001年第5卷，上海: 复旦大学出版社。
+
+Cao, Yiming, and Shuo Chen. 2022. “Replication data for: Rebel on the Canal: Disrupted Trade Access and Social Conflict in China, 1650-1911.” American Economic Association [publisher], Inter-university Consortium for Political and Social Research [distributor]. https://doi.org/10.3886/E157781V1.
+
+曹，一鸣，朔晨。二零二二年。《运河上的叛乱: 1650-1911年中国贸易通道的中断与社会冲突》的复制数据美国经济协会[出版商] ，大学间政治和社会研究联盟[分销商]。Https://doi.org/10.3886/e157781v1.
+
+Cavallo, Eduardo, Sebastian Galiani, Ilan Noy, and Juan Pantano. 2013. “Catastrophic Natural Disasters and Economic Growth.” Review of Economics and Statistics 95 (5): 1549-61.
+
+卡瓦洛，爱德华多，塞巴斯蒂安 · 加利亚尼，伊兰 · 诺伊，胡安 · 潘塔诺。二零一三年。“灾难性自然灾害与经济增长”经济学与统计学评论95(5) : 1549-61。
+
+Chen, Qiang. 2015. “Climate Shocks, State Capacity and Peasant Uprisings in North China during 25-1911CE.” Economica 82 (326): 295-318.
+
+陈。2015。“公元25-1911年气候冲击、国家能力与华北农民起义”。《经济学》82(326) : 295-318。
+
+Chen, Shuo, and James Kai-sing Kung. 2016. “Of Maize and Men: The Effect of a New World Crop on Population and Economic Growth in China.” Journal of Economic Growth 21 (1): 71-99.
+
+陈，硕，孔启星。二零一六年。《玉米与人: 新世界作物对中国人口和经济增长的影响》经济增长杂志21(1) : 71-99。
+
+Cheung, Sui-wai. 2008. “Construction of the Grand Canal and Improvement in Transportation in Late Imperial China.” Asian Social Science 4 (6): 11-22.
+
+张瑞威。二零零八年。中华帝国晚期运河的修建与交通的改善亚洲社会科学4(6) : 11-22。
+
+Chinese Academy of Meteorological Sciences. 1981. The Atlas of the Distribution of Droughts and Floods in China over the Past 500 Years. Beijing: SinoMaps Press.
+
+中国气象科学研究院。1981年。中国近500年旱涝分布图。北京: 中国地图出版社。
+
+Conley, Timothy G. 1999. “GMM Estimation with Cross Sectional Dependence.” Journal of Econometrics 92 (1): 1-45.
+
+横截面依赖的 GMM 估计〉 ，《计量经济学杂志》92(1) : 1-45。
+
+Conley, Timothy G. 2008. “Spatial Econometrics.” In The New Palgrave Dictionary of Economics, edited by Steven N. Durlauf and Lawrence E. Blume, 6159-65. Basingstoke: Palgrave Macmillan.
+
+康利，蒂莫西 G 2008。“空间计量经济学”新帕尔格雷夫经济学词典由史蒂文 · N · 德罗夫和劳伦斯 · E · 布鲁姆编辑，6159-65。贝辛斯托克: 帕尔格雷夫·麦克米兰。
+
+Correia, Sergio. 2017. “reghdfe: Stata module for linear and instrumental-variable/gmm regression absorbing multiple levels of fixed effects.” Statistical Software Components s457874, Boston College Department of Economics. https://ideas.repec.org/c/boc/bocode/s457874.html.
+
+科雷亚，塞尔吉奥。二零一七年。“ reghdfe: 用于线性和工具变量/gmm 回归的 Stata 模块，吸收多层次的固定效应。”统计软件组件 s457874，波士顿学院经济系。Https://ideas.repec.org/c/boc/bocode/s457874.html.
+
+Critchley, David. 2008. The Origin of Organized Crime in America: The New York City Mafia, 1891-1931. New York: Routledge.
+
+《美国有组织犯罪的起源: 纽约市黑手党，1891-1931》 ，《纽约: 劳特利奇》 ，2008年。
+
+Dell, Melissa, Benjamin Feigenberg, and Kensuke Teshima. 2019. “The Violent Consequences of Trade-Induced Worker Displacement in Mexico.” American Economic Review: Insights 1 (1): 43-58.
+
+戴尔，梅丽莎，本杰明・费根伯格，还有铁岛剑介。二零一九年。“墨西哥贸易导致工人流离失所的暴力后果”美国经济评论: 见解1(1) : 43-58。
+
+Djankov, Simeon, and Marta Reynal-Querol. 2010. “Poverty and Civil War: Revisiting the Evidence.” Review of Economics and Statistics 92 (4): 1035-41.
+
+Djankov Simeon 和 Marta Reynal-Querol。二零一零年。《贫穷与内战: 重新审视证据》经济学与统计学评论92(4) : 1035-41。
+
+Donaldson, Dave. 2018. “Railroads of the Raj: Estimating the Impact of Transportation Infrastructure.” American Economic Review 108 (4-5): 899-934.
+
+拉吉的铁路: 运输基础设施的影响评估〉 ，《美国经济评论》108(4-5) : 899-934。
+
+Donaldson, Dave, and Richard Hornbeck. 2016. “Railroads and American Economic Growth: A ‘Market Access’ Approach.” Quarterly Journal of Economics 131 (2): 799-858.
+
+Donaldson Dave 和 Richard Hornbeck。二零一六年。“铁路与美国经济增长: ‘市场准入’方法”经济学季刊131(2) : 799-858。
+
+Dube, Oeindrila, and Juan F. Vargas. 2013. “Commodity Price Shocks and Civil Conflict: Evidence from Colombia.” Review of Economic Studies 80 (4): 1384-1421.
+
+杜比，Oeindrila，还有胡安・ f ・瓦格斯。二零一三年。大宗商品价格冲击与国内冲突: 来自哥伦比亚的证据经济研究述评80(4) : 1384-1421。
+
+Earth Resources Observation and Science Center/US Geological Survey/US Department of the Interior. 1997. “USGS 30 ARC-second Global Elevation Data, GTOPO30.” Research Data Archive at the National Center for Atmospheric Research, Computational and Information Systems Laboratory, Boulder, CO. https://doi.org/10.5065/A1Z4-EE71.
+
+地球资源观测与科学中心/美国地质调查局/美国内政部。一九九七年。美国地质勘探局30弧秒全球海拔数据 GTOPO30美国国家大气研究中心计算与信息系统实验室的研究数据档案 https://doi.org/10.5065/a1z4-ee71。
+
+Elvin, Mark. 1973. The Pattern of the Chinese Past: A Social and Economic Interpretation. Redwood City, CA: Stanford University Press.
+
+《中国过去的模式: 一种社会和经济的解释》 ，雷德伍德城: 斯坦福大学出版社。
+
+Esherick, Joseph W. 1988. The Origins of the Boxer Uprising. Oakland, CA: University of California Press.
+
+《义和团起义的起源》。奥克兰，加州: 加州大学出版社。
+
+Fairbank, John K., ed. 1978. The Cambridge History of China, Vol. 10, Cambridge, UK: Cambridge University Press.
+
+费正清主编: 《剑桥中国史》 ，英国剑桥: 剑桥大学出版社，1978年版。
+
+Fogel, Robert William. 1979. “Notes on the Social Saving Controversy.” Journal of Economic History 39 (1): 1-54.
+
+罗伯特 · 威廉 · 福格尔，1979，〈社会储蓄争议的注释〉 ，《经济史杂志》39(1) : 1-54。
+
+Galiani, Sebastian, and Brian Quistorff. 2017. “The synth\_runner Package: Utilities to Automate Synthetic Control Estimation Using Synth.” Stata Journal 17 (4): 834-849.
+
+Galiani Sebastian 还有 Brian Quistorff。二零一七年。“使用合成器自动进行综合控制评估的实用程序”Stata Journal 17(4) : 834-849斯塔塔杂志17(4) : 834-849。
+
+Gandar, Dominique. 1894. Le Canal Imperial: Etude Historique et Descriptive. Kraus Reprint.
+
+多米尼克. 甘达.1894. 《运河帝国: 历史与描述练习曲》 ，克劳斯再版。
+
+Ge, Jianxiong. 1997. Changes in Boundaries and Administrative Divisions in Chinese History. Beijing: Commercial Press.
+
+葛健雄.1997。中国历史上边界与行政区划的变迁。北京: 商务印书馆。
+
+Grossman, Herschell I. 1991. “A General Equilibrium Model of Insurrections.” American Economic Review 81 (4): 912-21.
+
+叛乱的一般均衡模型〉 ，《美国经济评论》81(4) : 912-21。
+
+Haller, Mark H. 1971. “Organized Crime in Urban Society: Chicago in the Twentieth Century.” Journal of Social History 5 (2): 210-34.
+
+Haller，Mark H. 1971.城市社会中的有组织犯罪: 二十世纪的芝加哥社会历史杂志5(2) : 210-34。
+
+Harvard Yenching Institute, and Fudan Center for Historical Geography. 2007. “CHGIS, Version 4.” 2007. Harvard University and Fudan University. https://sites.fas.harvard.edu/~chgis/data/chgis/v4/.
+
+哈佛燕京研究所，复旦历史地理研究中心，2007年，《中国地理信息系统》 ，第4版，哈佛大学复旦大学， https://sites.fas.Harvard.edu/~CHGIS/data/CHGIS/v4/。
+
+Hegre, Havard, and Nicholas Sambanis. 2006. “Sensitivity Analysis of Empirical Results on Civil War Onset.” Journal of Conflict Resolution 50 (4): 508-35.
+
+海格尔，哈佛和尼古拉斯 · 桑巴尼斯。二零零六年。“内战爆发经验结果敏感度分析”冲突解决期刊50(4) : 508-35。
+
+Hinton, Harold C. 1952. “The Grain Tribute System of the Ch’ing Dynasty.” Far Eastern Quarterly 11 (3): 339-54.
+
+清朝的粮食进贡制度〉 ，《远东季刊》11(3) : 339-54。
+
+Hirshleifer, Jack. 1989. “Conflict and Rent-Seeking Success Functions: Ratio vs. Difference Models of Relative Success.” Public Choice 63 (2): 101-12.
+
+冲突与寻租成功函数: 相对成功的比率与差异模型〉 ，《公共选择》63(2) : 第101-12页。
+
+Hsiang, Solomon M. 2010. “Temperatures and Cyclones Strongly Associated with Economic Production in the Caribbean and Central America.” Proceedings of the National Academy of Sciences 107 (35): 15367-72.
+
+祥，Solomon M. 2010。温度和气旋与加勒比海和中美洲的经济生产密切相关美国国家科学院院刊107(35) : 15367-72。
+
+Hsiang, Solomon M., Marshall Burke, and Edward Miguel. 2013. “Quantifying the Influence of Climate on Human Conflict.” Science 341 (6151): 1235367.
+
+祥，所罗门 · M，马歇尔 · 伯克和爱德华 · 米格尔。二零一三年。“量化气候对人类冲突的影响”Science 341(6151) : 1235367科学341(6151) : 1235367。
+
+Hsiang, Solomon M., Kyle C. Meng, and Mark A. Cane. 2011. “Civil Conflicts Are Associated with the Global Climate.” Nature 476 (7361): 438-41.
+
+香，所罗门 M，凯尔 C 孟，和马克 A 凯恩。二零一一年。“国内冲突与全球气候有关”自然476(7361) : 438-41。
+
+Huang, Han-Liang. 1918. The Land Tax in China. New York: Columbia University Press.
+
+黄.1918。中国的土地税。纽约: 哥伦比亚大学出版社。
+
+Hummel, Arthur W. 2010. Eminent Chinese of the Ch’ing Period, 1644-1912. 2 Vols. Leiden, Netherlands: Brill.
+
+阿瑟 · W · 哈梅尔，2010年，《清代杰出华人，1644-1912.2卷》 ，荷兰莱顿: 布里尔出版社。
+
+Institute of Economics. 2010. “Grain Prices Data during Daoguang to Xuantong of the Qing Dynasty.” Chinese Academy of Social Sciences.
+
+中国社会科学院经济研究所，2010年，〈清代 Daoguang 至宣统的粮食价格数据〉。
+
+International Institute for Applied Systems Analysis, and Food and Agriculture Organization of the United Nations (IIASA and FAO). 2012. “Global Agro-Ecological Zones (GAEZ v3.0).” Food and Agriculture Organization of the United Nations. https://gaez.fao.org/Main.html. (accessed March 16, 2016).
+
+国际应用系统分析研究所和联合国粮食及农业组织。二零一二年。全球农业生态区(GAEZ v3.0)联合国粮食及农业组织。Https://gaez.fao.org/main.html.(2016年3月16日访问)。
+
+Iyigun, Murat, Nathan Nunn, and Nancy Qian. 2017. “Winter is Coming: The Long-Run Effects of Climate Change on Conflict, 1400-1900.” Unpublished.
+
+Iyigun，Murat，Nathan Nunn，还有 Nancy 倩。二零一七年。《冬天即将来临: 1400-1900年气候变化对冲突的长期影响》未出版的。
+
+Janus, Thorsten, and Daniel Riera-Crichton. 2015. “Economic Shocks, Civil War and Ethnicity.” Journal of Development Economics 115: 32-44.
+
+贾纳斯、托尔斯滕和丹尼尔 · 里埃拉-克莱顿，2015年，《经济冲击、内战和种族》 ，《发展经济学杂志》115:32-44。
+
+Jha, Saumitra. 2013. “Trade, Institutions, and Ethnic Tolerance: Evidence from South Asia.” American Political Science Review 107 (4): 806-32.
+
+贸易、制度与民族宽容: 来自南亚的证据〉 ，《美国政治科学评论》107(4) : 806-32，Saumitra，2013年。
+
+Jia, Ruixue. 2014. “Weather Shocks, Sweet Potatoes and Peasant Revolts in Historical China.” Economic Journal 124 (575): 92-118.
+
+贾.2014。中国历史上的气候震荡、红薯与农民起义。经济学杂志124(575) : 92-118。
+
+Kung, James Kai-sing, and Chicheng Ma. 2014. “Can Cultural Norms Reduce Conflicts? Confucianism and Peasant Rebellions in Qing China.” Journal of Development Economics 111: 132-49.
+
+孔令成，詹姆斯 · 凯星，马。二零一四年。”文化规范能减少冲突吗？儒家思想与清代农民起义发展经济学杂志111:132-49。
+
+Laitin, David D., and James T. Watkins. 2007. Nations, States, and Violence. Oxford: Oxford University Press.
+
+《国家、国家与暴力》 ，牛津: 牛津大学出版社，2007年。
+
+Leonard, Jane Kate. 1988. “‘Controlling from Afar’ Open Communications and the Tao-Kuang Emperor’s Control of Grand Canal-Grain Transport Management, 1824-26.” Modern Asian Studies 22 (4): 665-99.
+
+Leonard 这是 Jane Kate。1988年。远治通信与桃光帝对大运河的控制——1824-1826年粮食运输管理现代亚洲研究22(4) : 665-99。
+
+Leonard, Jane Kate. 2018. Stretching the Qing Bureaucracy in the 1826 Sea-Transport Experiment. Leiden, Netherlands: Brill.
+
+简 · 凯特 · 伦纳德，2018。《在1826年海运实验中拉伸清政府》。荷兰莱顿: 布里尔。
+
+Li, Wenzhi, and Taixin Jiang. 2008. The Grain Transport System in the Qing Dynasty. Beijing: Social Sciences Academic Press.
+
+李、江新.2008。清代粮食运输系统。北京: 社会科学文献出版社。
+
+Liang, Fangzhong. 1980. Historical Statistics on Hukou, Land and Land Tax of China. Beijing: Zhon-ghua Shuju.
+
+《中国户口、土地、地税的历史统计》 ，Fangzhong: 中华书局，1980年。
+
+Liu, Chang. 2007. Peasants and Revolution in Rural China: Rural Political Change in the North China Plain and the Yangzi Delta, 1850-1949. Routledge Studies in the Chinese Economy. Oxford: Routledge.
+
+刘，张。二零零七年。农民与中国农村革命: 1850-1949年华北平原与 Yangzi Delta 的农村政治变革。中国经济中的劳特利奇研究。牛津: 劳特利奇。
+
+Luo, Ergang. 1984. Book of the Green Standard Army. Beijing: Zhonghua Shuju.
+
+罗刚.1984。绿色标准军事图书。北京: 中华书局。
+
+Mann, Michael E., Zhihua Zhang, Scott Rutherford, Raymond S. Bradley, Malcolm K. Hughes, Drew Shindell, Caspar Ammann, Greg Faluvegi, and Fenbiao Ni. 2009. “Global Signatures and Dynamical Origins of the Little Ice Age and Medieval Climate Anomaly.” Science 326 (5957): 1256-60.
+
+曼恩、迈克尔 · E、张、斯科特 · 卢瑟福、雷蒙德 · S · 布拉德利、马尔科姆 · K · 休斯、德鲁 · 辛德尔、卡斯帕 · 阿曼、格雷格 · 法鲁维奇和倪。二零零九年。“小冰期和中世纪气候异常的全球特征和动力学起源”科学326(5957) : 1256-60。
+
+Mann, Michael E, Zhihua Zhang, Scott Rutherford, Raymond S Bradley, Malcolm K Hughes, Drew Shindell, Caspar Ammann, Greg Faluvegi, and Fenbiao Ni. 2009. “Supplementary Material for: Global Signatures and Dynamical Origins of the Little Ice Age and Medieval Climate Anomaly.’’ American Association for the Advancement of Science. [https://www.science.org/doi/suppl/10.1126/](https://www.science.org/doi/suppl/10.1126/science.1177303/suppl_file/multiproxyspatial09.zip) [science.1177303/suppl\_file/multiproxyspatial09.zip](https://www.science.org/doi/suppl/10.1126/science.1177303/suppl_file/multiproxyspatial09.zip).
+
+曼恩、迈克尔 · E、张、斯科特 · 卢瑟福、雷蒙德 · S · 布拉德利、马尔科姆 · K · 休斯、德鲁 · 辛德尔、卡斯帕 · 阿曼、格雷格 · 法鲁维奇和倪。二零零九年。补充材料: 小冰期和中世纪气候异常的全球特征和动力学起源美国科学进步协会。Https://www.science.org/doi/suppl/10.1126/ : 1177303/Suppl \_ file/multiproxyspatial09.zip.
+
+Martin, Brian G. 1996. The Shanghai Green Gang: Politics and Organized Crime, 1919-1937. Oakland: University of California Press.
+
+《上海绿帮: 政治与有组织犯罪，1919-1937》。奥克兰: 加州大学出版社。
+
+McGuirk, Eoin, and Marshall Burke. 2020. “The Economic Origins of Conflict in Africa.” Journal of Political Economy 128 (10): 3940-97.
+
+非洲冲突的经济根源〉 ，《政治经济学杂志》128(10) : 3940-97。
+
+Melly, Blaise, and Giulia Santangelo. 2015. “The Changes-in-Changes Model with Covariates.” Unpublished.
+
+梅利、布莱斯和茱莉亚 · 桑坦吉洛，2015年，《带有协变量的变化模型》 ，未发表。
+
+Miguel, Edward. 2005. “Poverty and Witch Killing.” Review of Economic Studies 72 (4): 1153-72.
+
+爱德华. 米格尔.2005. 〈贫穷与杀害女巫〉 ，《经济研究评论》72(4) : 1153-72。
+
+Miguel, Edward, Shanker Satyanath, and Ernest Sergenti. 2004. “Economic Shocks and Civil Conflict: An Instrumental Variables Approach.” Journal of Political Economy 112 (4): 725-53.
+
+Miguel Edward Shanker Satyanath 和 Ernest Sergenti。二零零四年。“经济冲击与国内冲突: 工具变量法”政治经济学杂志112(4) : 725-53。
+
+Ni, Yuping. 2005. Grain Transportation in the Qing Dynasty and Social Change. Shanghai: Shanghai Bookstore Publishing House.
+
+倪玉萍.2005。清代粮食运输与社会变迁。上海: 上海书店出版社。
+
+Nunn, Nathan, and Diego Puga. 2012. “Ruggedness: The Blessing of Bad Geography in Africa.” Review of Economics and Statistics 94 (1): 20-36.
+
+Nunn Nathan 还有 Diego Puga。二零一二年。“坚固: 非洲糟糕地理环境的恩赐”经济学与统计学评论94(1) : 20-36。
+
+Perlman, Elisabeth Ruth, and Steven Sprick Schuster. 2016. “Delivering the Vote: The Political Effect of Free Mail Delivery in Early Twentieth Century America.” Journal of Economic History 76 (3): 769-802.
+
+Perlman Elisabeth Ruth 和 Steven Sprick Schuster。二零一六年。“投票: 二十世纪初美国免费邮递的政治影响”经济史杂志76(3) : 769-802。
+
+Perry, Elizabeth. 1980. Rebels and Revolutionaries in North China, 1845-1945. Redwood City, CA: Stanford University Press.
+
+《华北的起义与革命，1845-1945》 ，雷德伍德城: 斯坦福大学出版社。
+
+Riley, Shawn J., Stephen D. DeGloria, and Robert Elliot. 1999. “A Terrain Ruggedness Index that Quantifies Topographic Heterogeneity.” Intermountain Journal of Sciences 5 (1-4): 23-27.
+
+Riley Shawn J. Stephen D. DeGloria 和 Robert Elliot。一九九九年。“用于量化地形异质性的地形坚固性指数”山间科学杂志5(1-4) : 23-27。
+
+Shiue, Carol H. 2002. “Transport Costs and the Geography of Arbitrage in Eighteenth-Century China.” American Economic Review 92 (5): 1406-19.
+
+运输成本与 Eighteenth-Century China 套利的地理分布〉 ，《美国经济评论》92(5) : 1406-19。
+
+Smith, Adam. 1776. The Wealth of Nations: An Inquiry into the Nature and Causes of the Wealth of Nations. Harriman House Limited [2010].
+
+史密斯，亚当。1776年。《国富论》 : 国富的性质与成因探析。哈利文住宅有限公司〔2010〕。
+
+Talhelm, T., X. Zhang, S. Oishi, C. Shimin, D. Duan, X. Lan, and S. Kitayama. 2014. “Large-scale Psychological Differences within China Explained by Rice versus Wheat Agriculture.” Science 344 (6184): 603-8.
+
+塔尔赫姆，T，X。张，S。大石，C。世民，D。段，X。兰和 S。北山。二零一四年。“中国大规模的心理差异由水稻和小麦农业解释。”科学344(6184) : 603-8。
+
+von Glahn, Richard. 2018. “Economic Depression and the Silver Question in Nineteenth-Century China.” In Global History and New Polycentric Approaches: Europe, Asia and the Americas in a World Network System, edited by Manuel Perez Garcia and Lucio De Sousa, 81-118. Singapore: Springer Singapore.
+
+冯・格兰，理查德。二零一八年。“经济萧条与十九世纪中国的白银问题”在全球历史和新的多中心方法: 欧洲，亚洲和美洲在一个世界网络系统，编辑曼努埃尔佩雷斯加西亚和卢西奥德索萨，81-118。新加坡: Springer Singapore。
+
+Watson, Andrew. 1972. Transport in Transition: The Evolution of Traditional Shipping in China. (Michigan abstracts of Chinese and Japanese works on Chinese History). Ann Arbor, MI: University of Michigan Press.
+
+华生，安德鲁。1972年。转型中的运输: 中国传统航运的演变。密歇根中日中国历史著作摘要。安阿伯: 密西根大学出版社。
+
+Wang, Yejian, 2008. “Qing Dynasty’s Price of Food Database (Qingdai Liangjia Ziliao Ku, in Chinese),” Institute of Modern History, The Academia Sinica, Taiwan. [http://husscat.hss.ntu.edu.tw/](http://husscat.hss.ntu.edu.tw/handle/123456789/8297) [handle/123456789/8297](http://husscat.hss.ntu.edu.tw/handle/123456789/8297).
+
+王2008。《清代食品价格数据库》 ，中央研究院近代史研究所，台湾。Http://husscat.hss.ntu.edu.tw/手柄/123456789/8297。
+
+Yang, Ch’ing-k’un. 1975. “Some Preliminary Statistical Patterns of Mass Actions in Nineteenth-Century China” In Conflict and Control in Late Imperial China, edited by Carolyn Grant and Frederic E. Wakeman, 174-210. Berkeley: University of California Press.
+
+杨，庆坤。1975年。《19世纪中国群众活动的一些初步统计模式》 ，卡罗琳 · 格兰特、弗雷德里克 · 韦克曼主编，174-210年。伯克利: 加州大学出版社。
+
+1.8
+
+1.6
+
+1.4
+
+1.2
+
+1
+
+0.8
+
+![](./The Amercian Economic Review, May 2022, Volume 112, Number 5_files/Rebel on the Canal Disrupted Trade Access and Social Conflict in China, 1650131911-5.jpg) 
+
+[1](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#footnote1)
+
+Cao: Department of Economics, Boston University (email: yiming@bu.edu); Chen: School of Economics, Fudan University (email: cs@fudan.edu.cn). Esther Duflo was the coeditor for this article. We thank the coeditor and two anonymous referees for valuable comments and guidance. Helpful and much appreciated suggestions, critiques and encouragement were provided by Ying Bai, Samuel Bazzi, Eli Berman, Travers Child, Zhao Chen, Zhiwu Chen, Hanming Fang, Thiemo Fetzer, Raymond Fisman, Martin Fiszbein, Oded Galor, Siddharth George, Yu Hao, Jiashun Huang, James Kung, Xiaohuan Lan, Pinghan Liang, Ruobing Liang, Gedeon Lim, Chicheng Ma, Robert Margo, Tianguang Meng, Dilip Mookherjee, Nathan Nunn, Nancy Qian, Xue Qiao, Michael Song, Tao Sun, Fang Wang, Shangjin Wei, Austin Wright, Mingqin Wu, Tianyang Xi, Chenggang Xu, Xian Xu, Melanie Xue, and Dandan Zhang; participants in the 2016 NBER Chinese Studies Group meeting, the eighth International Symposium on Quantitative History, NEUDC 2016 at MIT, the NBER Summer Institute 2017, and the ASSA Annual Meeting 2018; and seminar participants at Boston University, Harvard University, Peking University, Shandong University, and Tsinghua University. We thank Yantong Fang, Zhichen Huang, Yongtao Li, Yaohui Peng, Albert Roh, Xuanyi Wang, Lixi Xu, Qin Yao, and Zhitao Zhu for their excellent research assistance. Chen would like to thank the National Natural Science Foundation of China (71773021; 71933002), the Innovation Program of Shanghai Municipal Education Commission (2017-01-07-00-07-E00002), Legendary Project on Humanities and Social Sciences at Fudan University for financial support. We alone are responsible for any remaining errors.
+
+曹: 波士顿大学经济系(电子邮件: yming@bu.edu) ; 陈: 经济学院复旦大学(电子邮件: cs@fudan. edu.cn)。Esther Duflo 是这篇文章的共同编辑。我们感谢共同编辑和两位匿名推荐人的宝贵意见和指导。英白、塞缪尔 · 巴兹、伊莱 · 伯曼、特拉弗斯 · 查尔德、赵晨、陈、方、蒂姆 · 费泽尔、雷蒙德 · 菲斯曼、马丁 · 菲斯宾、奥德 · 格洛尔等人提出了许多有用且非常受欢迎的建议、批评和鼓励,悉达多 · 乔，于豪，黄，孔庆东，蓝，平汉梁，梁，林志刚，马，罗伯特 · 马，天光孟，迪利普 · 穆克吉，纳恩，钱，薛桥，迈克尔 · 宋，孙涛，王，魏上进，奥斯汀 · 赖特，吴，西天阳，许，徐，薛和张;参加2016年国家经济研究局中国研究小组会议、2016年麻省理工学院量化历史国际研讨会、2017年国家经济研究局夏季研究所和2018年 ASSA 年会的学者，以及波士顿大学、哈佛大学的研讨会学者，北京大学、山东大学和清华大学。我们感谢方、黄、李、彭、卢俊辉、王、徐、秦尧、朱等人对我们的卓越研究工作的帮助。陈感谢国家自然科学基金(71773021; 71933002)、上海市教育委员会创新计划(2017-01-07-00-07-E00002)、人文社会科学传奇项目的复旦大学资助。剩下的错误都是我们一个人的责任。
+
+^ Go to https://doi.org/10.1257/aer.20201283to visit the article page for additional materials and author disclosure statements.
+
+^ https://doi.org/10.1257/aer.20201283访问文章页面了解更多材料和作者披露声明。
+
+[2](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#footnote2)
+
+Adam Smith, in his work The Wealth of Nations, refers to China’s Grand Canal as affording “an inland navigation much more extensive than that either of the Nile or the Ganges, or, perhaps, than both of them put together” (Smith 1776 [2010, p. 4]).
+
+亚当•斯密(Adam Smith)在其著作《国富论》(The Wealth of Nations)中提到，中国的大运河提供了“比尼罗河或恒河，或者比两者加起来还要广阔的内陆航行”(斯密1776年(Smith 1776)[2010年，第4页])。
+
+[3](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#footnote3)
+
+Berman and Couttenier (2015), while again focusing on price-volatility shocks, suggest that their impact depends to a large extent on geographical adjacency to seaports. They do not, however, explicitly evaluate changes in seaport access at the extensive margin.
+
+Berman 和 Couttenier (2015)在再次关注价格波动冲击的同时指出，价格波动的影响在很大程度上取决于与海港的地理邻近程度。然而，他们并没有在广泛的范围内明确地评估海港通道的变化。
+
+[4](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#footnote4)
+
+In this sense, our work echoes Amodio, Baccini, and Di Maio (2021), which shows that trade restrictions (often motivated by security concerns) increases the episodes of political violence in localities where the restricted sectors concentrated.
+
+从这个意义上说，我们的研究与阿莫迪奥、巴契尼和迪马约(2021)的研究相呼应，这些研究表明，贸易限制(通常出于安全考虑)增加了限制行业集中的地区的政治暴力事件。
+
+[5](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#footnote5)
+
+Historical revolts and conflicts in China have also been associated with other factors such as climate (Bai and Kung 2011; Chen 2015), agricultural technology (Jia 2014) and social norms (Kung and Ma 2014).
+
+中国的历史起义和冲突也与其他因素有关，例如气候(白和龚2011; 陈2015)、农业技术(贾2014)和社会规范(龚和马2014)。
+
+[6](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#footnote6)
+
+We also conduct a brief survey of other historical events that might be associated with social instability, including the White Lotus Rebellion (1794-1804), the Miao Rebellion (1795-1806 and 1854-1872), the Opium War (1839-1842), and the Taiping Rebellion (1851-1864). None of these events occurred around the 1826 period, and they mostly affected regions far from the canal. To the extent of there being other events we are unaware of, Section IVB presents a set of placebo tests to mitigate the concern.
+
+我们还对其他可能与社会不稳定有关的历史事件进行了简要调查，包括川楚教乱(1794-1804)、苗族起义(1795-1806和1854-1872)、鸦片战争(1839-1842)和太平天国起义(1851-1864)。这些事件都没有发生在1826年左右，而且大多影响到远离运河的地区。如果还有其他我们不知道的事件，第 IVB 节提出了一套安慰剂测试，以减轻关注。
+
+1760         1780         1800         1820         1840         1860
+
+176017801800182018401860
+
+Figure 2. Canal Usage Measured by Tribute Rice Transportation
+
+图2。贡米运输测量的渠道使用情况
+
+Notes: The figure depicts the amount of tribute grains transported via the canal between 1755 and 1860, calculated based on information from Li and Jiang (2008, pp. 38-42). The vertical solid line marks the 1826 sea-shipping experiment. The fitted lines depict the linear trend of grain shipping before and after that date.
+
+注: 图为1755年至1860年间运经运河的贡粮数量，计算依据为李、江(2008年，第38-42页)。垂直实线标志着1826年的海运实验。拟合线描绘了该日期前后粮食运输的线性趋势。
+
+grain boats and the tax-free commodities they carried. The canal’s private use was also disrupted because it was in a state of disrepair. The situation is particularly severe for the northern sections of the canal, as the canal’s operation in the north relied more heavily on the effectiveness of its maintenance. As the canal’s navigability declined, commodities had to be transported by land, which was nearly ten times more costly in pre-modern China (Watson 1972; Shiue 2002), leading to a dramatic reduction in regional trade access. As a result, workers who lived by the canal lost their jobs. The population of Linqing—the most representative city in the canal’s rise and fall—fell from over 200,000 in the late eighteenth century to fewer than 50,000 by the early twentieth century (Cao 2001).
+
+粮船和它们运载的免税商品。运河的私人使用也因为年久失修而中断。对于运河的北部地区来说，情况尤其严峻，因为运河在北部的运行更多地依赖于其维护的有效性。由于运河的通航能力下降，商品不得不通过陆路运输，在现代化之前的中国，陆路运输的成本几乎是现代化之前的十倍(Watson 1972; Shiue 2002) ，这导致了地区贸易准入的急剧减少。结果，住在运河边的工人失去了工作。临清是运河兴衰过程中最具代表性的城市，其人口从18世纪末的20多万下降到20世纪初的不到5万(曹2001)。
+
+There is considerable anecdotal evidence that the closure of the canal was associated with subsequent social disorder in the region. Historians have documented that unemployed workers who lost their livelihoods following the closure—especially those directly involved in grain transportation and commercial services—contributed significantly to the formation and development of many of the groups of gangsters and rebels in the late Qing Dynasty, including the Nian Rebellion (Perry 1980), the Boxing Rebellion (Esherick 1988) and the Shanghai Green Gang (Martin 1996). Folk wisdom also implies the potential existence of link between the canal’s closure and social disorder. A popular ballad from nineteenth-century Shandong Province lamented the destructive consequences of closing the canal in the line “mulong duan, tianxia luan’ (literally “broken the boat, disordered the world’’)(Ni 2005). Our paper offers the first systematic evaluation of the hypothesis implied in these anecdotes.
+
+有相当多的轶事证据认为，运河的关闭与该地区随后出现的社会动荡有关。历史学家记载，清朝关闭后失去生计的失业工人，特别是那些直接从事粮食运输和商业服务的人，对晚清许多黑帮和叛乱团伙的形成和发展起了重要作用，其中包括年间起义(佩里1980年)、拳击起义(埃舍里克1988年)和上海绿帮(马丁1996年)。民间智慧也暗示了运河关闭与社会混乱之间潜在的联系。19世纪山东流行的一首民谣哀叹了关闭运河的破坏性后果“木龙断，天下乱”(字面意思是“破船乱世”)(倪2005)。我们的论文提供了第一个系统的评价假设隐含在这些轶事。
+
+- II. Data
+
+    二、资料
+
+We construct an original panel dataset from several historical sources spanning the 1650-1911 period. Our dataset, which covers 575 counties in six provinces
+
+我们从1650-1911年间的几个历史资料来源构建了一个原始的面板数据集。我们的数据集覆盖了六个省的575个县
+
+[7](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#footnote7)
+
+More specifically, the 1600 population size of county i in prefecture p is given by
+
+更具体地说，p 地区 i 县的1600人口规模是由
+
+population,1600 = \_\_-----------■;,l516— x populationp 1600.
+
+人口，1600 = \_ \_ ———— ￭ ; ，l516ー x 人口 p 1600。
+
+’        X,, ep households j ,1546
+
+X，，ep 住户 j，1546
+
+[8](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#footnote8)
+
+We would like to deliver our deep gratitude to the anonymous referees for suggesting this excellent specification.
+
+我们要对提出这一优秀规范的匿名推荐人表示深深的感谢。
+
+[9](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#footnote9)
+
+The estimations with high dimensional fixed effects are implemented using the Stata package REGHDFE, which is developed by Correia (2017). The Stata package for implementing Conley standard errors is provided by Hsiang (2010).
+
+具有高维固定效应的估计是使用由 Correia (2017)开发的 Stata 软件包 regHDFE 实现的。用于实现 Conley 标准错误的 Stata 包由 Hsiang (2010)提供。
+
+[10](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#footnote10)
+
+The results are robust to using alternative bandwidths, e.g., 5 km or 20 km. We thank the anonymous referees for suggesting this measure.
+
+结果是稳健的使用替代带宽，例如，5公里或20公里。我们感谢匿名推荐人提出这一措施。
+
+[11](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#footnote11)
+
+We would like to deliver our deepest gratitude to the coeditor, Esther Duflo, and two anonymous referees for pushing us in this direction, and for their helpful suggestions and guidance for addressing the issue.
+
+我们要向共同编辑 Esther Duflo 和两位匿名推荐人表示最深切的感谢，感谢他们推动我们朝着这个方向前进，感谢他们为解决这个问题提供了有益的建议和指导。
+
+[12](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#footnote12)
+
+We implement the estimation using the Stata package provided by Melly and Santangelo (2015).
+
+我们使用 Melly 和 Santangelo (2015)提供的 Stata 包来实现评估。
+
+[13](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#footnote13)
+
+The SCM requires that units in the donor pool should not be affected by the treatment (Abadie 2021). However, we have found that the canal might have a spillover effect to counties up to 150 km away (see online Appendix Figure A4). Therefore, we restrict the donor pool to non-canal counties at least 150 km away from the canal.
+
+SCM 要求供体库中的单位不应受到治疗的影响(Abadie 2021)。然而，我们发现运河可能会对150公里以外的郡县产生溢出效应(见在线附录图 A4)。因此，我们将捐赠者限制在距离运河至少150公里的非运河县。
+
+[14](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#footnote14)
+
+The British Army’s campaign ended after it occupied the city of Zhenjiang (where the canal and the Yangtze River intersect), which forced the Chinese government to enter negotiations. The Taiping rebel group launched its Northern Expedition in 1853, aiming to seize the capital of Beijing. They did not head north through the Grand Canal, however, because of the difficulties associated with crossing the Yellow River. Instead, they marched westward into Henan and Shanxi Provinces before turning northeast toward Beijing. The expedition was defeated by the Qing imperial forces in 1855.
+
+英军占领镇江(运河和长江交汇处)后，迫使中国政府进行谈判，英军的战役结束了。太平天国叛乱集团于1853年发动国民革命军北伐，旨在夺取首都北京。然而，由于过黄河的困难，他们没有向北通过大运河。相反，他们向西进军到河南和山西省，然后向东北方向进军到北京。这次远征在1855年被清朝军队击败。
+
+[15](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#footnote15)
+
+The data for grain prices are compiled by Chen and Kung (2016), based on information from Wang (2008) and Institute of Economics (2010).
+
+粮食价格数据由陈(2016)根据王(2008)和经济研究所(2010)的信息编制而成。
+
+[16](file:///F:/book/Englishbook/html/Rebel%20on%20the%20Canal%20Disrupted%20Trade%20Access%20and%20Social%20Conflict%20in%20China,%201650%E2%80%931911.htm#footnote16)
+
+One prominent example is Cao Bang, an official labor union once approved by the government, which controlled tens of thousands of grain junks and over 50,000 registered members by the late eighteenth century. It was also recognized as the main precursor of the Green Gang following the decline of the canal economy.
+
+一个突出的例子是曹邦，一个官方的工会曾经获得政府的批准，到18世纪末控制了成千上万的谷物垃圾和超过50,000名注册会员。在运河经济衰退之后，它也被认为是青帮的主要前身。
+ 
+![](./The Amercian Economic Review, May 2022, Volume 112, Number 5_files/left-slide.png) 
+![](./The Amercian Economic Review, May 2022, Volume 112, Number 5_files/xiaoyilogo.jpg) 
+ 彩云小译 刚刚
+
+![](./The Amercian Economic Review, May 2022, Volume 112, Number 5_files/favour.png)0
+![](./The Amercian Economic Review, May 2022, Volume 112, Number 5_files/right-slide.png)
+
+https://fanyi.caiyunapp.com/user/center/
+
+![](./The Amercian Economic Review, May 2022, Volume 112, Number 5_files/fanyi-btn-hover.png)
+
+![](./The Amercian Economic Review, May 2022, Volume 112, Number 5_files/favorite-btn.png)
+
+本网页由彩云小译翻译
+
+![](chrome-extension://dhdopcklmpeojdodlnfakdajmjfkaigc/images/fanyi-btn-subtitle.png)
