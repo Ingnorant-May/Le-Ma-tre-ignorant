@@ -29,7 +29,9 @@
 
 ## 工具介绍
 
-### 建议用[hypothes.is](https://hypothes.is/users/Le_Maitre_ignorant)进行文章标注和评论
+### 在issue中留言进行讨论
+
+### 用[hypothes.is](https://hypothes.is/users/Le_Maitre_ignorant)进行文章标注和评论
 
 - 公开模式下的批注，所有人都可以看到
 - 如果您需要将您拉进小组，查看他人在小组中的批注，请在issue留言
