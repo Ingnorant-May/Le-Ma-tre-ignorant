@@ -9,4 +9,4 @@
 - 公开模式下的批注，所有人都可以看到
 - 如果您需要将您拉进小组，查看他人在小组中的批注，请在issue留言
 
-### [文献机翻教程](https://github.com/Ingnorant-May/Le-Ma-tre-ignorant/tree/main/%E8%AE%BA%E6%96%87)
+### [文献机翻教程](https://github.com/Ingnorant-May/Le-Ma-tre-ignorant/blob/main/%E5%B7%A5%E5%85%B7%E4%BB%8B%E7%BB%8D/%E5%A6%82%E4%BD%95%E6%9C%BA%E7%BF%BB%E6%96%87%E6%A1%A3.md)
