@@ -2,6 +2,10 @@
 
 ## 学习小组文献存放地
 
+- 小组的初衷：建立一个文档存放地
+- 为什么使用github：公开，非审查，issue系统可以充当论坛使用
+- 联系我（我们），请在issue中联系
+
 ## 工具介绍
 
 ### 建议用[hypothes.is](https://hypothes.is/users/Le_Maitre_ignorant)进行文章标注和评论
